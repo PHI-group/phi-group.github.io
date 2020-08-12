@@ -1,0 +1,45 @@
+
+faculty-1:
+    display_name: "Zhi Yang"
+    webpage: https://www.researchgate.net/profile/Zhi_Yang4
+    role: faculty
+    image: /img/people/yangz.jpeg
+    bio: Principle Investigator
+
+faculty-2:
+    display_name: "Yiwen Zhang"
+    role: faculty
+
+faculty-3:
+    display_name: "Yang Hu"
+    role: faculty
+
+postdoc-1: 
+    display_name: "Shuzhen Gan"
+    role: postdoc
+
+postdoc-2:
+    display_name: "Lei Zhang"
+    role: postdoc
+
+grad-1:
+    display_name: "Jiaqi Gao"
+    role: grad
+
+grad-2:
+    display_name: "Jingjing Liu"
+    role: grad
+
+grad-3:
+    display_name: "Shuqi Xie"
+    role: grad    
+
+visit-1:
+    display_name: "Qinjian Zhang"
+    role: visit
+
+alum-1:
+    display_name: "Alum A"
+    role: alum
+    bio: "Unknown"
+
