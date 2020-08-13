@@ -2,6 +2,9 @@
 layout: default
 title: Publications
 ---
+<scripttype="text/javascript">
+  $("/img/publicpic/natural_indiv_psy_imag.png").addClass('img-responsive');
+</script>
 **Highlight 1: A naturalistic imaging approach for individualized psychiatric imaging**
 <p align="center"><img width=device-width src="/img/publicpic/natural_indiv_psy_imag.png"></p>
 
