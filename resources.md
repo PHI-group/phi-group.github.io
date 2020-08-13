@@ -22,7 +22,7 @@ When we cannot assume that all subjects share the same functional networks, we m
 
 The gRAICAR inter-subject similarity matrices reveal potential differences among subjects and thus accelerate data-driven discovery. Further, community detection algorithms applied to the gRAICAR intersubject similarity matrices can provide more quantitative metrics to characterize the associations between individual differences in functional networks and behaviors.
 
-The gRAICAR code and a tutorial with examples: [https://github.com/yangzhi-psy/gRAICAR](https://github.com/yangzhi-psy/gRAICAR)
+The gRAICAR code and a tutorial with examples: [Github link](https://github.com/yangzhi-psy/gRAICAR)
 
 Please consider to cite the following publications:
 
