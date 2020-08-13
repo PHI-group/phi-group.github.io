@@ -9,7 +9,7 @@ The PHI-pipe is a multi-modal brain MRI data processing pipeline developed in PH
 - Gives multiple levels of results. You can get preprocessed images for your customized further analyses or just tables of parcel-wise measures (such as parcel-wise cortical thickness, reho, and functional connectivity matrices) for your statistical comparisons without touching the images.
 - Makes quality control and quality check easy. The pipeline automatically evaluates and reports the quality of your data, and it generates figures for your visual check.
 - Supports web-interface. We have implemented an easy-to-use website in our center, called WeProMRI, where users can do "one-click image preprocessing" 
-![philogo1](/img/philogo/philogo1.png)
+
 The source code of the basic version of PHI-pipe can be downloaded at: .... Here is a user's manual.
 
 WeProMRITM is our implementation of a user-friendly website for automatical, parallel processing of multimodal brain MRI data. The pro-version of PHI-pipe with more functionalities underlies this website. Due to limited compuational resources, please contact us for accessing WeProMRI website. A tutorial for using WeProMRI is here
