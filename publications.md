@@ -9,30 +9,30 @@ title: Publications
 - Yang, Z., Wu, J., Xu, L., Deng, Z., Tang, Y., Gao, J., Hu, Y., Zhang, Y., Qin, S., Li, C., Wang, J., 2019. Individualized psychiatric imaging based on inter-subject neural synchronization in movie watching. Neuroimage. [https://doi.org/10.1016/j.neuroimage.2019.116227](https://doi.org/10.1016/j.neuroimage.2019.116227)
 
 **Highlight 2: Altered gray matter volume and structural co-variance in adolescents with social anxiety disorder**
-<p align="center"><img width="700" src="/img/publicpic/gmvol_struc_covar.png"></p>
+<p align="center"><img style="width:90%" src="/img/publicpic/gmvol_struc_covar.png"></p>
 
 - We provided evidence for a delayed and unsynchronized development of the fronto-limbic system of adolescents with social anxiety disorder. We found significant co-variance in grey matter volume of orbitofrontal gyrus, insula, and amygdala in typically developing adolescents, but this co-variance relationship was disrupted in adolescents with social anxiety disorder.
 - Liu, Z., Hu, Y., Zhang, Y., Liu, W., Zhang, L., Wang, Y., Yang, H., Wu, J., Cheng, W., Yang, Z., 2020. Altered gray matter volume and structural co-variance in adolescents with social anxiety disorder: Evidence for a delayed and unsynchronized development of the fronto-limbic system. Psychol. Med. [https://doi.org/10.1017/S0033291720000495](https://doi.org/10.1017/S0033291720000495)
 
 **Highlight 3: Deficits in precuneus network are associated with auditory hallucinations in schizophrenia**
-<p align="center"><img width="700" src="/img/publicpic/precunet_associ_auditory_hall.png"></p>
+<p align="center"><img style="width:90%" src="/img/publicpic/precunet_associ_auditory_hall.png"></p>
 
 - In a sample of first-episode drug-naive schizophrenia patients and matched healthy controls, we found that the functional connectivity within the precuneus network (PCN) distinguishes the schizophrenia patients with auditory hallucinations from those without auditory hallucinations and the healthy controls. In contrast, we did not detect a significant inter-group difference in the functional connectivity of the default mode network (DMN). These findings support different roles of PCN and DMN in functional connectivity deficits in schizophrenia.
 - Guo, Q., Hu, Y., Zeng, B., Tang, Y., Li, G., Zhang, T., Wang, Jinhong, Northoff, G., Li, C., Goff, D., Wang, Jijun, Yang, Z., 2020. Parietal memory network and default mode network in first-episode drug-naïve schizophrenia: Associations with auditory hallucination. Hum. Brain Mapp. [https://doi.org/10.1002/hbm.24923](https://doi.org/10.1002/hbm.24923)
 
 **Highlight 4: Functional connectivity between sensory-motor subnetworks in schizophrenia**
-<p align="center"><img width="700" src="/img/publicpic/funcconn_sensorymotor.png"></p>
+<p align="center"><img style="width:90%" src="/img/publicpic/funcconn_sensorymotor.png"></p>
 
 - In a sample of first-episode drug-naive schizophrenia patients, we found disrupted functional connectivity in the sensory-motor system in patients with schizophrenia. The degree of impairment in the sensory-motor functional connectivity reflects the duration of untreated psychosis and predicts the treatment outcome after two months' medication. This study calls for attention to this "primary" network in the search for neuroimaging biomarkers.
 - Zhang, Y., Xu, L., Hu, Y., Wu, J., Li, C., Wang, J., Yang, Z., 2019. Functional Connectivity Between Sensory-Motor Subnetworks Reflects the Duration of Untreated Psychosis and Predicts Treatment Outcome of First-Episode Drug-Naïve Schizophrenia. Biol. Psychiatry Cogn. Neurosci. Neuroimaging. [https://doi.org/10.1016/j.bpsc.2019.04.002](https://doi.org/10.1016/j.bpsc.2019.04.002)
 
 **Highlight 5: We proudly supported the healthcare workers in the fight against the COVID-19 epidemic in Wuhan, China**
-<p align="center"><img width="700" src="/img/publicpic/covid19.png"></p>
+<p align="center"><img style="width:90%" src="/img/publicpic/covid19.png"></p>
 
 - This paper presents a practical and resource-efficient psychological intervention model for inpatients in a big disaster, such as the COVID-19 epidemic. This study demonstrates a real-world application of the integrated online and onsite-psychological intervention.
 - Cheng, W., Zhang, F., Hua, Y., Yang, Z., Liu, J., 2020. Development of a psychological first-aid model in inpatients with COVID-19 in Wuhan, China. Gen. Psychiatry. [https://doi.org/10.1136/gpsych-2020-100292](https://doi.org/10.1136/gpsych-2020-100292)
 
-<p align="center"><img width="700" src="/img/publicpic/covid19_2.png"></p>
+<p align="center"><img style="width:90%" src="/img/publicpic/covid19_2.png"></p>
 
 - This paper presents a scheme to support the psychological health of frontline healthcare workers in the COVID-19 epidemic. This scheme integrates onsite and online mental health resources and features team-based psycho-social support and evidence-based intervention. This paper also reports quantitative results to support the effectiveness and efficiency of the scheme.
 - Cheng, W., Zhang, F., Liu, Z., Zhang, H., Lyu, Y., Xu, H., Hua, Y., Gu, J., Yang, Z., Liu, J., 2020. A psychological health support scheme for medical teams in COVID-19 outbreak and its effectiveness. Gen. Psychiatry. [in press]().
