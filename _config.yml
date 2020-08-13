@@ -43,5 +43,5 @@ navigation:
     link: /publications.html
   - title: Resources
     link: /resources.html
-  -title: /Others
+  - title: /Others
     link: /others.html
