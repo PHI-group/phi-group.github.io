@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resources
+title: Others
 ---
 ## Logo
 ![philogo1](/img/philogo/philogo1.png)
