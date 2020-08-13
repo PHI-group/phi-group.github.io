@@ -4,7 +4,7 @@ title: Resources
 ---
 ## PHI-pipe
 The PHI-pipe is a multi-modal brain MRI data processing pipeline developed in PHI. Remarkable features of this pipeline include:
-- A multi-modal pipeline for preprocessing of T1-3D, resting-state fMRI,  and DWI data. This is a one-stop solution if you have scanned  multi-modal images. Supported modality combinations are T1, T1+rest, and  T1+DWI.
+- A multi-modal pipeline for preprocessing of T1-3D, resting-state fMRI, and DWI data. This is a one-stop solution if you have scanned multi-modal images. Supported modality combinations are T1, T1+rest, and T1+DWI.
 - Supports automatic parallel computing. Make good use of computational power to automatically accelerate the processing.
 - Gives multiple levels of results. You can get preprocessed images for your customized further analyses or just tables of parcel-wise measures (such as parcel-wise cortical thickness, reho, and functional connectivity matrices) for your statistical comparisons without touching the images.
 - Makes quality control and quality check easy. The pipeline automatically evaluates and reports the quality of your data, and it generates figures for your visual check.
@@ -12,9 +12,10 @@ The PHI-pipe is a multi-modal brain MRI data processing pipeline developed in PH
 
 The source code of the basic version of PHI-pipe can be downloaded at: .... Here is a user's manual.
 
-WeProMRIn<sup>TM</sup>=n+1 is our implementation of a user-friendly website for automatical, parallel processing of multimodal brain MRI data. The pro-version of PHI-pipe with more functionalities underlies this website. Due to limited compuational resources, please contact us for accessing WeProMRI website. A tutorial for using WeProMRI is here
+WeProMRIn<sup>TM</sup> is our implementation of a user-friendly website for automatical, parallel processing of multimodal brain MRI data. The pro-version of PHI-pipe with more functionalities underlies this website. Due to limited compuational resources, please contact us for accessing WeProMRI website. A tutorial for using WeProMRI is here
 
 ## gRAICAR
+<p align="center"><img width="500" src="../images/resourcepic/graicar.png"></p>
 gRAICAR is a Matlab package for data-driven subject community detection based on functional networks.
  
 When we cannot assume that all subjects share the same functional networks, we may want to look into the inter-subject similarity on each network. gRAICAR provides a tool for realizing such a purpose. gRAICAR first decomposes fMRI data into spatial components using independent component analysis (ICA), then aligns the spatial maps across the subjects, yielding an inter-subject similarity matrix for each aligned, group-level component. According to many ICA studies, some of these aligned components represent functional connectivity networks.
