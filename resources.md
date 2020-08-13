@@ -12,7 +12,7 @@ The PHI-pipe is a multi-modal brain MRI data processing pipeline developed in PH
 
 The source code of the basic version of PHI-pipe can be downloaded at: .... Here is a user's manual.
 
-WeProMRITM is our implementation of a user-friendly website for automatical, parallel processing of multimodal brain MRI data. The pro-version of PHI-pipe with more functionalities underlies this website. Due to limited compuational resources, please contact us for accessing WeProMRI website. A tutorial for using WeProMRI is here
+WeProMRIn<sup>TM</sup>=n+1 is our implementation of a user-friendly website for automatical, parallel processing of multimodal brain MRI data. The pro-version of PHI-pipe with more functionalities underlies this website. Due to limited compuational resources, please contact us for accessing WeProMRI website. A tutorial for using WeProMRI is here
 
 ## gRAICAR
 gRAICAR is a Matlab package for data-driven subject community detection based on functional networks.
