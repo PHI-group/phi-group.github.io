@@ -15,7 +15,7 @@ The source code of the basic version of PHI-pipe can be downloaded at: .... Here
 WeProMRIn<sup>TM</sup> is our implementation of a user-friendly website for automatical, parallel processing of multimodal brain MRI data. The pro-version of PHI-pipe with more functionalities underlies this website. Due to limited compuational resources, please contact us for accessing WeProMRI website. A tutorial for using WeProMRI is here
 
 ## gRAICAR
-<p align="center"><img width="500" src="/images/resourcepic/graicar.png"></p>
+<p align="center"><img width="500" src="/img/resourcepic/graicar.png"></p>
 gRAICAR is a Matlab package for data-driven subject community detection based on functional networks.
  
 When we cannot assume that all subjects share the same functional networks, we may want to look into the inter-subject similarity on each network. gRAICAR provides a tool for realizing such a purpose. gRAICAR first decomposes fMRI data into spatial components using independent component analysis (ICA), then aligns the spatial maps across the subjects, yielding an inter-subject similarity matrix for each aligned, group-level component. According to many ICA studies, some of these aligned components represent functional connectivity networks.
