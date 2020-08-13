@@ -14,7 +14,7 @@ faculty-3:
     display_name: "Yang Hu"
     role: faculty
 
-postdoc-1: 
+postdoc-1:
     display_name: "Shuzhen Gan"
     role: postdoc
 
@@ -32,14 +32,8 @@ grad-2:
 
 grad-3:
     display_name: "Shuqi Xie"
-    role: grad    
+    role: grad
 
 visit-1:
     display_name: "Qinjian Zhang"
     role: visit
-
-alum-1:
-    display_name: "Alum A"
-    role: alum
-    bio: "Unknown"
-

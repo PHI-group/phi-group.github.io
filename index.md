@@ -38,4 +38,3 @@ Psychological Health and Imaging group (PHI) develops neuroimaging and electrica
         </p>
     {% endif %}
 </section>
-

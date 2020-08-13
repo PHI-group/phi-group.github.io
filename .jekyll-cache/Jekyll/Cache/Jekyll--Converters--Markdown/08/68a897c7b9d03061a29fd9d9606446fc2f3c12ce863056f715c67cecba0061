@@ -1,4 +1,4 @@
-I"Ö$<section class="people row justify-content-between">
+I"!<section class="people row justify-content-between">
     
         <div class="col-md-6">
             
@@ -151,6 +151,127 @@
                 
                 
             
+        </div>
+    
+
+    
+
+    
+
+    
+
+
+            
+                
+
+
+
+    
+
+    
+        <h3 class="pt-3"> Postdoc </h3>
+        <div class="role postdoc">
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+                    
+
+
+
+
+
+
+
+    <div class="person person-with-image row align-items-center">
+        <div class="col-auto">
+            
+
+
+
+
+
+
+
+    
+        <svg class="profile noprofile" alt="Shuzhen Gan" viewBox="0 0 100 100">
+            <title>Shuzhen Gan</title>
+            <circle r="50" cx="50" cy="50" />
+            <text x="50" y="50" font-size="70" text-anchor="middle" dominant-baseline="central">
+                S
+            </text>
+        </svg>
+    
+
+
+        </div>
+        <div class="col pl-0">
+            <h6 class="person-name"> Shuzhen Gan </h6>
+            
+        </div>
+    </div>
+
+
+                
+            
+                
+                
+                    
+
+
+
+
+
+
+
+    <div class="person person-with-image row align-items-center">
+        <div class="col-auto">
+            
+
+
+
+
+
+
+
+    
+        <svg class="profile noprofile" alt="Lei Zhang" viewBox="0 0 100 100">
+            <title>Lei Zhang</title>
+            <circle r="50" cx="50" cy="50" />
+            <text x="50" y="50" font-size="70" text-anchor="middle" dominant-baseline="central">
+                L
+            </text>
+        </svg>
+    
+
+
+        </div>
+        <div class="col pl-0">
+            <h6 class="person-name"> Lei Zhang </h6>
+            
+        </div>
+    </div>
+
+
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
                 
                 
             
@@ -161,11 +282,11 @@
 
     
 
+
+            
+        </div>
     
-
-    
-
-
+        <div class="col-md-6">
             
                 
 
@@ -320,143 +441,7 @@
                 
                 
             
-                
-                
-            
         </div>
-    
-
-    
-
-    
-
-
-            
-        </div>
-    
-        <div class="col-md-6">
-            
-                
-
-
-
-    
-
-    
-        <h3 class="pt-3"> Postdoc </h3>
-        <div class="role postdoc">
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-                    
-
-
-
-
-
-
-
-    <div class="person person-with-image row align-items-center">
-        <div class="col-auto">
-            
-
-
-
-
-
-
-
-    
-        <svg class="profile noprofile" alt="Shuzhen Gan" viewBox="0 0 100 100">
-            <title>Shuzhen Gan</title>
-            <circle r="50" cx="50" cy="50" />
-            <text x="50" y="50" font-size="70" text-anchor="middle" dominant-baseline="central">
-                S
-            </text>
-        </svg>
-    
-
-
-        </div>
-        <div class="col pl-0">
-            <h6 class="person-name"> Shuzhen Gan </h6>
-            
-        </div>
-    </div>
-
-
-                
-            
-                
-                
-                    
-
-
-
-
-
-
-
-    <div class="person person-with-image row align-items-center">
-        <div class="col-auto">
-            
-
-
-
-
-
-
-
-    
-        <svg class="profile noprofile" alt="Lei Zhang" viewBox="0 0 100 100">
-            <title>Lei Zhang</title>
-            <circle r="50" cx="50" cy="50" />
-            <text x="50" y="50" font-size="70" text-anchor="middle" dominant-baseline="central">
-                L
-            </text>
-        </svg>
-    
-
-
-        </div>
-        <div class="col pl-0">
-            <h6 class="person-name"> Lei Zhang </h6>
-            
-        </div>
-    </div>
-
-
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-        </div>
-    
-
-    
-
     
 
     
@@ -542,12 +527,7 @@
 
                 
             
-                
-                
-            
         </div>
-    
-
     
 
 
@@ -570,60 +550,6 @@
 
     
 
-    
-
-    
-        <h3 class="pt-3"> Alumni </h3>
-        <div class="role alum">
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-                    
-
-
-
-
-
-
-
-    <div class="person person-without-image">
-        Alum A
-        
-            <span class="bio">Unknown</span>
-        
-    </div>
-
-
-                
-            
-        </div>
     
 
 
