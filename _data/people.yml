@@ -2,94 +2,94 @@
 faculty-1:
     display_name: "Zhi Yang Ph.D"
     webpage: https://www.researchgate.net/profile/Zhi_Yang4
-    role: Professor
+    role: faculty
     image: /img/people/yangz.jpeg
     bio: Principle Investigator
 
 faculty-2:
     display_name: "Yiwen Zhang M.Sc"
-    role: Faculty
+    role: faculty
     image: /img/people/zhangyw.jpeg
     bio: Research Fellow
 
 faculty-3:
     display_name: "Yang Hu M.Sc"
-    role: Faculty
+    role: faculty
     image: /img/people/huy.jpeg
     bio: Neuroimaging Data Analyst
 
 faculty-4:
     display_name: "Xiaochen Zhang Ph.D"
-    role: Faculty
+    role: faculty
     image: /img/people/zhangxc.jpeg
     bio: Research Fellow
 
 faculty-5:
     display_name: "Yue Ding Ph.D"
-    role: Faculty
+    role: faculty
     image: /img/people/dingy.jpeg
     bio: Associate Professor
 
 faculty-6:
     display_name: "Qingfeng Li M.Sc"
-    role: Faculty
+    role: faculty
     image: /img/people/liqf.jpeg
     bio: Neuroimaging Data Analyst
 
 faculty-7:
     display_name: "Lijuan Jiang M.Sc"
-    role: Faculty
+    role: faculty
     image: /img/people/jianglj.jpeg
     bio: Assistant Professor
 
 postdoc-1:
     display_name: "Shuzhen Gan Ph.D"
-    role: Postdoc Fellow
+    role: postdoc
     image: /img/people/User.png
 
 
 postdoc-2:
     display_name: "Lei Zhang Ph.D"
-    role: Postdoc Fellow
+    role: postdoc
     image: /img/people/zhangl.jpeg
 
 
 grad-1:
     display_name: "Jiaqi Gao"
-    role: Ph.D Student
+    role: grad
     image: /img/people/gaojq.jpeg
 
 grad-2:
     display_name: "Jingjing Liu"
-    role: Master Student
+    role: grad
     image: /img/people/liujj.jpeg
 
 grad-3:
     display_name: "Shuqi Xie"
-    role: Master Student
+    role: grad
     image: /img/people/xiesq.jpeg
 
 grad-4:
     display_name: "Shuyu Jin"
-    role: Master Student
+    role: grad
     image: /img/people/jinsy.jpeg
 
 visit-1:
     display_name: "Qinjian Zhang"
-    role: Visit Student
+    role: visit
     image: /img/people/zhangqj.jpeg
 
 visit-2:
     display_name: "Yilun Huang"
-    role: Visit Student
+    role: visit
     image: /img/people/huangyl.jpeg
 
 visit-3:
     display_name: "Xiong Hu"
-    role: Visit Student
+    role: visit
     image: /img/people/hux.jpeg
 
 visit-4:
     display_name: "Jialin Li"
-    role: Visit Student
+    role: visit
     image: /img/people/lijl.jpeg
