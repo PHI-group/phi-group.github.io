@@ -17,6 +17,8 @@ role-tables:
 
 ---
 
+<p align="center"><img width="500" src="/img/people/group1.jpg"></p>
+
 <div class="jumbotron">
     <p>
 Psychological Health and Imaging group (PHI) develops neuroimaging and electrical physiology technologies for improving the evaluation, diagnosis, and treatment of mental health problems. With a multidisciplinary team of engineers, statisticians, psychiatrists, and psychologists, we are currently focusing on brain developments in children and adolescents with mental disorders and cross-disease psychiatric neuroimaging. Our team also takes charge of the Neuroimaging Center of Shanghai Mental Health Center, managing the acquisition, processing, and sharing of thousands of psychiatric neuroimaging data. We welcome researchers to join or visit us.

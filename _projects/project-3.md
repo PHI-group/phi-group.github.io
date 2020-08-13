@@ -15,8 +15,6 @@ layout: project
 last-updated: 2020-08-12
 ---
 
-###The Precuneus Network
-
 **Goal:** 
 
 The precuneus network (PCN), or parietal memory network in some studies, is a relatively new name that refers to an intrinsic connectivity network in the brain that anchors at two parietal areas, including the precuneus and the posterior cingulate. The PCN and default mode network (DMN) is spatially adjacent and even overlap in posterior midline regions, so that seed voxel-based functional analyses may have the risk of merging the two networks as one. This project aims to investigate why and how to separate PCN from DMN. We provide evidence from cross-lifespan development, heritability, clinical applications, and methodology to support that PCN standands as a different intrinsic connectivity network from DMN (Figure 1). We are still working on characterizing the specific functions of PCN.
