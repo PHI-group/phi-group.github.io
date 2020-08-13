@@ -46,50 +46,58 @@ postdoc-1:
     display_name: "Shuzhen Gan Ph.D"
     role: postdoc
     image: /img/people/User.png
-
+    bio: Postdoc Fellow
 
 postdoc-2:
     display_name: "Lei Zhang Ph.D"
     role: postdoc
     image: /img/people/zhangl.jpeg
-
+    bio: Postdoc Fellow
 
 grad-1:
     display_name: "Jiaqi Gao"
     role: grad
     image: /img/people/gaojq.jpeg
+    bio: Ph.D Student
 
 grad-2:
     display_name: "Jingjing Liu"
     role: grad
     image: /img/people/liujj.jpg
+    bio: Master Student
 
 grad-3:
     display_name: "Shuqi Xie"
     role: grad
     image: /img/people/xiesq.jpeg
+    bio: Master Student
 
 grad-4:
     display_name: "Shuyu Jin"
     role: grad
     image: /img/people/jinsy.jpeg
+    bio: Master Student
 
 visit-1:
     display_name: "Qinjian Zhang"
     role: visit
     image: /img/people/zhangqj.jpeg
+    bio: Master Student
 
 visit-2:
     display_name: "Yilun Huang"
     role: visit
     image: /img/people/huangyl.jpeg
+    bio: Master Student
 
 visit-3:
     display_name: "Xiong Hu"
     role: visit
     image: /img/people/hux.jpeg
+    bio: Master Student
 
 visit-4:
     display_name: "Jialin Li"
     role: visit
     image: /img/people/lijl.jpeg
+    bio: Undergraduate Student

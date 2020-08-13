@@ -2,6 +2,8 @@
 title: Neuroimaing Methodologies
 
 description: |
+  <p align="center"><img style="width:90%" src="/img/resourcepic/graicar.png"></p>
+
   Our current methodology developments aim to tackle the heterogeneity of psychiatric neuroimaging. Our efforts are two folds. First, we attempt to reveal and decompose the inter-individual variability in psychiatric neuroimaging data, with a transdiagnosis philosophy; Second, we are developing imaging paradigms that have a larger effect size in identifying individuals with mental disorders. 
 people:
   - faculty-1
