@@ -5,6 +5,7 @@ faculty-1:
     role: faculty
     image: /img/people/yangz.jpeg
     bio: Principle Investigator
+    school: Professor of Institute of Psychological and Behavioral Sciences, Shanghai Jiao Tong University
 
 faculty-2:
     display_name: "Yiwen Zhang M.Sc"
