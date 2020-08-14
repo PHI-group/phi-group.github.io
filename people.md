@@ -3,7 +3,7 @@ layout: default
 title: People
 
 picture-role-groups:
-- {roles: [faculty, postdoc], width: 6}
+- {roles: [faculty, postdoc], width: 10}
 - {roles: [grad, visit], width: 6}
 
 no-picture-role-groups:
