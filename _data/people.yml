@@ -3,7 +3,7 @@ faculty-1:
     display_name: "Zhi Yang Ph.D"
     webpage: https://www.researchgate.net/profile/Zhi_Yang4
     role: faculty
-    image: /img/people/yangz.jpg
+    image: /img/people/yangz.jpeg
     bio: Principle Investigator
 
 faculty-2:
@@ -51,7 +51,7 @@ postdoc-1:
 postdoc-2:
     display_name: "Lei Zhang Ph.D"
     role: postdoc
-    image: /img/people/zhangl.jpg
+    image: /img/people/zhangl.jpeg
     bio: Postdoc Fellow
 
 grad-1:
