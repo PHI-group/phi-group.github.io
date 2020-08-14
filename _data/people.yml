@@ -11,6 +11,7 @@ faculty-2:
     role: faculty
     image: /img/people/zhangyw.jpeg
     bio: Research Fellow
+    school: Cognitive Neuroscience, Institute of Psychology, Chinese Academy of Sciences
 
 faculty-3:
     display_name: "Yang Hu M.Sc"
