@@ -10,7 +10,7 @@ The PHI-pipe is a multi-modal brain MRI data processing pipeline developed in PH
 - Makes quality control and quality check easy. The pipeline automatically evaluates and reports the quality of your data, and it generates figures for your visual check.
 - Supports web-interface. We have implemented an easy-to-use website in our center, called WeProMRI, where users can do "one-click image preprocessing" 
 
-The source code of the basic version of PHI-pipe can be downloaded at: .... Here is a user's manual.
+The source code of the basic version of PHI-pipe can be downloaded at [under updating]() Here is a user's manual. [under updating]()
 
 WeProMRIn<sup>TM</sup> is our implementation of a user-friendly website for automatical, parallel processing of multimodal brain MRI data. The pro-version of PHI-pipe with more functionalities underlies this website. Due to limited compuational resources, please contact us for accessing WeProMRI website. A tutorial for using WeProMRI is here
 
@@ -27,9 +27,9 @@ The gRAICAR code and a tutorial with examples: [Github link](https://github.com/
 Please consider to cite the following publications:
 
 **Original algorithms:** 
-- Yang Z, Zuo X, Wang P, Li Z, Laconte S, Bandettini PA, Hu X (2012).  Generalized RAICAR: Discover homogeneous subject (sub)groups by  reproducibility of their intrinsic connectivity networks. NeuroImage 63,  403-414
-- Yang Z, LaConte S, Weng X, and Hu X (2008). Ranking and averaging  independent component analysis by reproducibility (RAICAR). Human Brain  Mapping 29, 711-25
+- Yang Z, Zuo X, Wang P, Li Z, Laconte S, Bandettini PA, Hu X (2012).  Generalized RAICAR: Discover homogeneous subject (sub)groups by  reproducibility of their intrinsic connectivity networks. NeuroImage 63,  403-414 [full page link](https://doi.org/10.1016/j.neuroimage.2012.06.060)
+- Yang Z, LaConte S, Weng X, and Hu X (2008). Ranking and averaging  independent component analysis by reproducibility (RAICAR). Human Brain  Mapping 29, 711-25 [full page link](https://doi.org/10.1002/hbm.20432)
 
 **Improvements and applications:**
-- Yang Z, Chang C, Xu T, Jiang L, Handwerker D, Castellanos F, Milham  M, Bandettini P, Zuo X (2014). Connectivity Trajectory across Lifespan  Differentiates the Precuneus from the Default Network. NeuroImage 89,  45-56.
-- Yang Z, Xu Y, Xu T, Hoy C, Handwerker D, Chen G, Northoff G, Zuo X,  Bandettini P (2014). Brain network informed subject community detection  in early-onset schizophrenia. Scientific Reports 4, 5549.
+- Yang Z, Chang C, Xu T, Jiang L, Handwerker D, Castellanos F, Milham  M, Bandettini P, Zuo X (2014). Connectivity Trajectory across Lifespan Differentiates the Precuneus from the Default Network. NeuroImage 89,  45-56. [full page link](https://doi.org/10.1016/j.neuroimage.2013.10.039)
+- Yang Z, Xu Y, Xu T, Hoy C, Handwerker D, Chen G, Northoff G, Zuo X,  Bandettini P (2014). Brain network informed subject community detection  in early-onset schizophrenia. Scientific Reports 4, 5549. [full page link](https://doi.org/10.1038/srep05549)
