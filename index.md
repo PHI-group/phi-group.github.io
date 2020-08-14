@@ -5,7 +5,7 @@ notitle: true
 
 # groups of columns of {roles: list, width: num, image: bool}
 role-tables:
-- - roles: [faculty, postdoc]
+- - roles: [pi, faculty, postdoc]
     width: 6
     image: true
   - roles: [grad, visit]

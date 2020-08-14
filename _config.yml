@@ -9,6 +9,8 @@ permalink: /blog/:year/:month/:day/:title.html
 
 # Sections on the "people" page.
 roles:
+  - key: pi
+    name: Principle Investigator
   - key: faculty
     name: Faculty
   - key: postdoc
