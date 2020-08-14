@@ -79,7 +79,7 @@ ul.news {
 @media (min-width: 768px) {
 /*    .role.grad      { column-count: 2 } */
     .project-people { column-count: 3 }
-    .card-columns   { column-count: 3 }
+    .card-columns   { column-count: 2 }
 }
 
 .title img {
@@ -122,7 +122,7 @@ section {
     .profile {
         height: 100px;
         width: 100px;
-        border-radius: 80%;
+        //border-radius: 80%;
     }
 
     .bio {
