@@ -8,49 +8,41 @@ pi-1:
     school: Professor of Institute of Psychological and Behavioral Sciences, Shanghai Jiao Tong University
 
 faculty-1:
-    display_name: "Zhi Yang Ph.D"
-    webpage: https://www.researchgate.net/profile/Zhi_Yang4
-    role: faculty
-    image: /img/people/yangz.jpeg
-    bio: Principle Investigator
-    school: Professor of Institute of Psychological and Behavioral Sciences, Shanghai Jiao Tong University
-
-faculty-2:
     display_name: "Yiwen Zhang M.Sc"
     role: faculty
     image: /img/people/zhangyw.jpeg
     bio: Research Fellow
     school: M.Sc of Cognitive Neuroscience, Institute of Psychology, Chinese Academy of Sciences
 
-faculty-3:
+faculty-2:
     display_name: "Yang Hu M.Sc"
     role: faculty
     image: /img/people/huy.jpeg
     bio: Neuroimaging Data Analyst
     school: M.Sc of Cognitive Neuroscience, Institute of Psychology, Chinese Academy of Sciences
 
-faculty-4:
+faculty-3:
     display_name: "Xiaochen Zhang Ph.D"
     role: faculty
     image: /img/people/zhangxc.jpeg
     bio: Research Fellow
     school: Ph.D of Biomedical Engineering, Tsinghua University
 
-faculty-5:
+faculty-4:
     display_name: "Yue Ding Ph.D"
     role: faculty
     image: /img/people/dingy.jpeg
     bio: Associate Professor
     school: Ph.D of Biomedical Engineering, Tsinghua University
 
-faculty-6:
+faculty-5:
     display_name: "Qingfeng Li M.Sc"
     role: faculty
     image: /img/people/liqf.jpeg
     bio: Neuroimaging Data Analyst
     school: M.Sc of Biomedical Engineering, Southern Medical University
 
-faculty-7:
+faculty-6:
     display_name: "Lijuan Jiang M.Sc"
     role: faculty
     image: /img/people/jianglj.jpeg

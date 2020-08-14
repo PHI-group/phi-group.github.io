@@ -6,8 +6,8 @@ description: |
   
   Currently, the database posses 7000+ samples of neuroimaging data, covering 10+ major diagnosis categories. We are working on common and specific neuroimaging features across mental disorders.  
 people:
+  - pi-1
   - faculty-1
-  - faculty-2
   - postdoc-1
   - postdoc-2
 
