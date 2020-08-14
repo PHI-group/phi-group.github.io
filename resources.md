@@ -11,7 +11,11 @@ The PHI-pipe is a multi-modal brain MRI data processing pipeline developed in PH
 - Makes quality control and quality check easy. The pipeline automatically evaluates and reports the quality of your data, and it generates figures for your visual check.
 - Supports web-interface. We have implemented an easy-to-use website in our center, called WeProMRI, where users can do "one-click image preprocessing" 
 
+<p align="center"><img style="width:90%" src="/img/resourcepic/wepromri_2.png"></p>
+
 The source code of the basic version of PHI-pipe can be downloaded at [under updating]() Here is a user's manual. [under updating]()
+
+<p align="center"><img style="width:90%" src="/img/resourcepic/wepromri.png"></p>
 
 WeProMRIn<sup>TM</sup> is our implementation of a user-friendly website for automatical, parallel processing of multimodal brain MRI data. The pro-version of PHI-pipe with more functionalities underlies this website. Due to limited compuational resources, please contact us for accessing WeProMRI website. A tutorial for using WeProMRI is here
 
