@@ -20,7 +20,7 @@ title: Publications
 - In a sample of first-episode drug-naive schizophrenia patients and matched healthy controls, we found that the functional connectivity within the precuneus network (PCN) distinguishes the schizophrenia patients with auditory hallucinations from those without auditory hallucinations and the healthy controls. In contrast, we did not detect a significant inter-group difference in the functional connectivity of the default mode network (DMN). These findings support different roles of PCN and DMN in functional connectivity deficits in schizophrenia.
 - Guo, Q., Hu, Y., Zeng, B., Tang, Y., Li, G., Zhang, T., Wang, Jinhong, Northoff, G., Li, C., Goff, D., Wang, Jijun, Yang, Z., 2020. Parietal memory network and default mode network in first-episode drug-naïve schizophrenia: Associations with auditory hallucination. Hum. Brain Mapp. [full page link](https://doi.org/10.1002/hbm.24923)
 
-**Highlight 4: Functional connectivity between sensory-motor subnetworks in schizophrenia**
+**Highlight 4: Functional connectivity between sensory-motor subnetworks in Schizophrenia**
 <p align="center"><img style="width:90%" src="/img/publicpic/funcconn_sensorymotor.png"></p>
 
 - In a sample of first-episode drug-naive schizophrenia patients, we found disrupted functional connectivity in the sensory-motor system in patients with schizophrenia. The degree of impairment in the sensory-motor functional connectivity reflects the duration of untreated psychosis and predicts the treatment outcome after two months' medication. This study calls for attention to this "primary" network in the search for neuroimaging biomarkers.
