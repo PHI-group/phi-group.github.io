@@ -1,0 +1,152 @@
+I"�<div class="card-columns">
+    
+    
+    
+    
+        
+
+
+
+
+<div class="card">
+    <div class="card-body">
+        
+        
+            <h4 class="card-title">
+                The PHI-pipe is a multi-modal brain MRI data processing pipeline developed in PHI.
+            </h4>
+        
+        
+        <div class="card-text">
+            <p align="center"><img style="width:90%" src="/img/publicpic/natural_indiv_psy_imag.png" /></p>
+
+<p>Mental health problems in children and adolescents have been a significant issue in China. We attempt to connect the mental health problems to individual differences in brain development that synthesizes and reflects genetic and environmental factors. We are closely collaborating with the Department of Child and Adolescent Psychiatry, Shanghai Mental Health Center, to construct a neuroimaging cohort of children and adolescents with anxiety disorders. In the future, we aim to extend this cohort into a full-spectrum neuroimaging cohort of mental disorders in children and adolescents.</p>
+
+        </div>
+        
+            <a href="/resources/resource-1.html"> Read more &raquo;</a>
+        
+    </div>
+    
+        <div class="card-footer d-flex flex-row flex-wrap justify-content-center">
+            
+                <div>
+                    
+                    
+
+
+
+
+
+
+
+    <a href="https://www.researchgate.net/profile/Zhi_Yang4" style="text-decoration: none">
+        
+        <img class="rounded-circle profile" alt="Zhi Yang Ph.D" title="Zhi Yang Ph.D" src="/img/people/yangz.jpeg" />
+    
+    </a>
+
+
+                </div>
+            
+                <div>
+                    
+                    
+
+
+
+
+
+
+
+    
+        <img class="rounded-circle profile" alt="Yiwen Zhang M.Sc" title="Yiwen Zhang M.Sc" src="/img/people/zhangyw.jpeg" />
+    
+
+
+                </div>
+            
+                <div>
+                    
+                    
+
+
+
+
+
+
+
+    
+        <img class="rounded-circle profile" alt="Shuzhen Gan Ph.D" title="Shuzhen Gan Ph.D" src="/img/people/User.png" />
+    
+
+
+                </div>
+            
+                <div>
+                    
+                    
+
+
+
+
+
+
+
+    
+        <img class="rounded-circle profile" alt="Lei Zhang Ph.D" title="Lei Zhang Ph.D" src="/img/people/zhangl.jpeg" />
+    
+
+
+                </div>
+            
+        </div>
+    
+</div>
+
+    
+</div>
+
+<h2 id="phi-pipe">PHI-pipe</h2>
+<p align="center"><img style="width:90%" src="/img/resourcepic/phipipe.jpg" /></p>
+<p>The PHI-pipe is a multi-modal brain MRI data processing pipeline developed in PHI. Remarkable features of this pipeline include:</p>
+<ul>
+  <li>A multi-modal pipeline for preprocessing of T1-3D, resting-state fMRI, and DWI data. This is a one-stop solution if you have scanned multi-modal images. Supported modality combinations are T1, T1+rest, and T1+DWI.</li>
+  <li>Supports automatic parallel computing. Make good use of computational power to automatically accelerate the processing.</li>
+  <li>Gives multiple levels of results. You can get preprocessed images for your customized further analyses or just tables of parcel-wise measures (such as parcel-wise cortical thickness, reho, and functional connectivity matrices) for your statistical comparisons without touching the images.</li>
+  <li>Makes quality control and quality check easy. The pipeline automatically evaluates and reports the quality of your data, and it generates figures for your visual check.</li>
+  <li>Supports web-interface. We have implemented an easy-to-use website in our center, called WeProMRI, where users can do “one-click image preprocessing”</li>
+</ul>
+
+<p align="center"><img style="width:90%" src="/img/resourcepic/wepromri_2.png" /></p>
+
+<p>The source code of the basic version of PHI-pipe can be downloaded at <a href="">under updating</a> Here is a user’s manual. <a href="">under updating</a></p>
+
+<p align="center"><img style="width:90%" src="/img/resourcepic/wepromri.png" /></p>
+
+<p>WeProMRIn<sup>TM</sup> is our implementation of a user-friendly website for automatical, parallel processing of multimodal brain MRI data. The pro-version of PHI-pipe with more functionalities underlies this website. Due to limited compuational resources, please contact us for accessing WeProMRI website. A tutorial for using WeProMRI is here</p>
+
+<h2 id="graicar">gRAICAR</h2>
+<p align="center"><img style="width:90%" src="/img/resourcepic/graicar.png" /></p>
+<p>gRAICAR is a Matlab package for data-driven subject community detection based on functional networks.</p>
+
+<p>When we cannot assume that all subjects share the same functional networks, we may want to look into the inter-subject similarity on each network. gRAICAR provides a tool for realizing such a purpose. gRAICAR first decomposes fMRI data into spatial components using independent component analysis (ICA), then aligns the spatial maps across the subjects, yielding an inter-subject similarity matrix for each aligned, group-level component. According to many ICA studies, some of these aligned components represent functional connectivity networks.</p>
+
+<p>The gRAICAR inter-subject similarity matrices reveal potential differences among subjects and thus accelerate data-driven discovery. Further, community detection algorithms applied to the gRAICAR intersubject similarity matrices can provide more quantitative metrics to characterize the associations between individual differences in functional networks and behaviors.</p>
+
+<p>The gRAICAR code and a tutorial with examples: <a href="https://github.com/yangzhi-psy/gRAICAR">Github link</a></p>
+
+<p>Please consider to cite the following publications:</p>
+
+<p><strong>Original algorithms:</strong></p>
+<ul>
+  <li>Yang Z, Zuo X, Wang P, Li Z, Laconte S, Bandettini PA, Hu X (2012).  Generalized RAICAR: Discover homogeneous subject (sub)groups by  reproducibility of their intrinsic connectivity networks. NeuroImage 63,  403-414 <a href="https://doi.org/10.1016/j.neuroimage.2012.06.060">full page link</a></li>
+  <li>Yang Z, LaConte S, Weng X, and Hu X (2008). Ranking and averaging  independent component analysis by reproducibility (RAICAR). Human Brain  Mapping 29, 711-25 <a href="https://doi.org/10.1002/hbm.20432">full page link</a></li>
+</ul>
+
+<p><strong>Improvements and applications:</strong></p>
+<ul>
+  <li>Yang Z, Chang C, Xu T, Jiang L, Handwerker D, Castellanos F, Milham  M, Bandettini P, Zuo X (2014). Connectivity Trajectory across Lifespan Differentiates the Precuneus from the Default Network. NeuroImage 89,  45-56. <a href="https://doi.org/10.1016/j.neuroimage.2013.10.039">full page link</a></li>
+  <li>Yang Z, Xu Y, Xu T, Hoy C, Handwerker D, Chen G, Northoff G, Zuo X,  Bandettini P (2014). Brain network informed subject community detection  in early-onset schizophrenia. Scientific Reports 4, 5549. <a href="https://doi.org/10.1038/srep05549">full page link</a></li>
+</ul>
+:ET

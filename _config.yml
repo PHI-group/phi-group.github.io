@@ -31,6 +31,8 @@ base: ''
 # make pages for the _projects folder
 collections:
   projects:
+  publications:
+  resources:
     output: true
 
 # Navigation bar links.

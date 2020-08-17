@@ -1,0 +1,49 @@
+
+{% assign publication = include.publication %}
+
+{% if publication.link %}
+    {% assign pub-url = publication.link %}
+{% else %}
+    {% capture pub-url %}{{site.base}}{{publication.url}}.html{% endcapture %}
+{% endif %}
+
+<div class="card">
+    <div class="card-body">
+        {% if publication.image %}
+            {% assign imgurl = publication.image %}
+            {% capture init %}{{ publication.image | slice: 0,1 }}{% endcapture %}
+            {% if init == "/" %}
+                {% capture imgurl %}{{site.base}}{{publication.image}}{% endcapture %}
+            {% endif %}
+            <a href="{{ pub-url }}">
+                <img class="img-fluid mb-3" src="{{imgurl}}" alt="{{publication.title}}"/>
+            </a>
+        {% endif %}
+        {% if publication.notitle != true %}
+            <h4 class="card-title">
+                {{  publication.title }}
+            </h4>
+        {% endif %}
+        {% if publication.subtitle != null and publication.subtitle != "" %}
+            <h6 class="card-subtitle mb-2 text-muted">
+                {{  publication.subtitle }}
+            </h6>
+        {% endif %}
+        <div class="card-text">
+            {{ publication.description | markdownify }}
+        </div>
+        {% if publication.no-link != true or publication.link %}
+            <a href="{{ pub-url }}"> Read more &raquo;</a>
+        {% endif %}
+    </div>
+    {% if publication.people %}
+        <div class="card-footer d-flex flex-row flex-wrap justify-content-center">
+            {% for uname in publication.people %}
+                <div>
+                    {% assign person = site.data.people[uname]  %}
+                    {% include person-image.html person=person %}
+                </div>
+            {% endfor %}
+        </div>
+    {% endif %}
+</div>
