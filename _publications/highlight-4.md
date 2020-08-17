@@ -2,7 +2,6 @@
 title: Functional connectivity between sensory-motor subnetworks in Schizophrenia
 
 description: |
-
 <p align="center"><img style="width:90%" src="/img/publicpic/funcconn_sensorymotor.png"></p>
 
 - In a sample of first-episode drug-naive schizophrenia patients, we found disrupted functional connectivity in the sensory-motor system in patients with schizophrenia. The degree of impairment in the sensory-motor functional connectivity reflects the duration of untreated psychosis and predicts the treatment outcome after two months' medication. This study calls for attention to this "primary" network in the search for neuroimaging biomarkers.

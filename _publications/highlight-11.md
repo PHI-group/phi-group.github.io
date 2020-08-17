@@ -2,7 +2,6 @@
 title: Publications of 2015
 
 description: |
-  
 - Wu, J., Zhang, S., Li, W., Qin, S., He, Y., Yang, Z., Buchanan, T.W., Liu, C., Zhang, K., 2015. Cortisol awakening response predicts intrinsic functional connectivity of the medial prefrontal cortex in the afternoon of the same day. Neuroimage 122. [full page link](https://doi.org/10.1016/j.neuroimage.2015.08.016)
 - Yang, Z., Zuo, X-N., 2015. Big neuroimaging data-informed mind-brain association studies: Methodology and applications. Chinese Sci. Bull. (Chinese Version) 60, 966. [full page link](https://doi.org/10.1360/N972014-00806)
 - Chen, B., Xu, T., Zhou, C., Wang, L., Yang, N., Wang, Z., Dong, H.M., Yang, Z., Zang, Y.F., Zuo, X.N., Weng, X.C., 2015. Individual variability and test-retest reliability revealed by ten repeated resting-state brain scans over one month. PLoS One 10, 1–21. [full page link](https://doi.org/10.1371/journal.pone.0144963)
