@@ -9,7 +9,6 @@ layout: publication
 last-updated: 2020-08-12
 ---
 
-## 2012 and before
 - Yang, Z., Zuo, X.N., Wang, P., Li, Z., LaConte, S.M., Bandettini, P.A., Hu, X.P., 2012. Generalized RAICAR: Discover homogeneous subject (sub)groups by reproducibility of their intrinsic connectivity networks. Neuroimage 63, 403–414. [full page link](https://doi.org/10.1016/j.neuroimage.2012.06.060)
 - Liu, C.H., Li, F., Li, S.F., Wang, Y.J., Tie, C. Le, Wu, H.Y., Zhou, Z., Zhang, D., Dong, J., Yang, Z., Wang, C.Y., 2012. Abnormal baseline brain activity in bipolar depression: A resting state functional magnetic resonance imaging study. Psychiatry Res. - Neuroimaging 203, 175–179. [full page link](https://doi.org/10.1016/j.pscychresns.2012.02.007)
 - Yang, Z., Fang, F., Weng, X., 2012. Recent developments in multivariate pattern analysis for functional MRI. Neurosci. Bull. 28, 399–408. [full page link](https://doi.org/10.1007/s12264-012-1253-3)

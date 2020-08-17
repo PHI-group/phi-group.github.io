@@ -17,6 +17,7 @@ people:
 layout: publication
 last-updated: 2020-08-12
 ---
+
 <p align="center"><img style="width:90%" src="/img/publicpic/covid19.png"></p>
 
 - This paper presents a practical and resource-efficient psychological intervention model for inpatients in a big disaster, such as the COVID-19 epidemic. This study demonstrates a real-world application of the integrated online and onsite-psychological intervention.

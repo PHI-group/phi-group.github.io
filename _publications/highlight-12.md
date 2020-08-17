@@ -9,7 +9,6 @@ layout: publication
 last-updated: 2020-08-12
 ---
 
-## 2014
 - Yang, Z., Chang, C., Xu, T., Jiang, L., Handwerker, D.A., Castellanos, F.X., Milham, M.P., Bandettini, P.A., Zuo, X.N., 2014a. Connectivity trajectory across lifespan differentiates the precuneus from the default network. Neuroimage 89, 45–56. [full page link](https://doi.org/10.1016/j.neuroimage.2013.10.039)
 - Yang, Z., Xu, Y., Xu, T., Hoy, C.W., Handwerker, D.A., Chen, G., Northoff, G., Zuo, X.-N.N., Bandettini, P.A., 2014b. Brain network informed subject community detection in early-onset schizophrenia. Sci. Rep. 4. [full page link](https://doi.org/10.1038/srep05549)
 - Yang, Z., Huang, Z., Gonzalez-Castillo, J., Dai, R., Northoff, G., Bandettini, P., 2014. Using fMRI to decode true thoughts independent of intention to conceal. Neuroimage 99, 80–92. [full page link](https://doi.org/10.1016/j.neuroimage.2014.05.034)
