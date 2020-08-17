@@ -20,6 +20,10 @@ title: Qingfeng Li M.Sc
 
 ## Honors
 
+- 2018 Excellent Student Award of Southern Medical University
+- 2019 MICCAI Student Travel Award
+- 2019 Excellent Student Award of Southern Medical University
+- 2019 First-class Scholarship of Southern Medical University
 
 
 ## Research Funds
