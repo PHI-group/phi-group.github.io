@@ -3,7 +3,7 @@ layout: default
 title: Qingfeng Li M.Sc
 ---
 
-<p align="left"><img style="width:90%" src="/img/people/liqf.jpeg"></p>
+<p align="left"><img style="width:50%" src="/img/scholarpages_people/liqf.jpg"></p>
 
 **E-mail**
 
