@@ -12,7 +12,6 @@ layout: resource
 last-updated: 2020-08-12
 ---
 
-## gRAICAR
 <p align="center"><img style="width:90%" src="/img/resourcepic/graicar.png"></p>
 gRAICAR is a Matlab package for data-driven subject community detection based on functional networks.
 

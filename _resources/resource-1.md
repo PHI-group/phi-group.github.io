@@ -12,7 +12,6 @@ layout: resource
 last-updated: 2020-08-12
 ---
 
-## PHI-pipe
 <p align="center"><img style="width:90%" src="/img/resourcepic/phipipe.jpg"></p>
 The PHI-pipe is a multi-modal brain MRI data processing pipeline developed in PHI. Remarkable features of this pipeline include:
 - A multi-modal pipeline for preprocessing of T1-3D, resting-state fMRI, and DWI data. This is a one-stop solution if you have scanned multi-modal images. Supported modality combinations are T1, T1+rest, and T1+DWI.
