@@ -9,6 +9,7 @@ pi-1:
 
 faculty-1:
     display_name: "Yiwen Zhang M.Sc"
+    webpage: /scholarpages/liqf.md
     role: faculty
     image: /img/people/zhangyw.jpeg
     bio: Research Fellow
