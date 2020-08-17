@@ -16,8 +16,7 @@ title: Qingfeng Li M.Sc
 
 ## Work Experience
 
-- March 2018 to February 2020: Shanghai Lianying Intelligent Medical Technology Co., Ltd
--- Intern of AI algorithm engineer
+- **Intern of AI algorithm engineer**: March 2018 to February 2020: Shanghai Lianying Intelligent Medical Technology Co., Ltd
 
 ## Honors
 
