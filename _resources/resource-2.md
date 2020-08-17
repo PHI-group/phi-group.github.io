@@ -4,13 +4,13 @@ title: gRAICAR
 description: |
   <p align="center"><img style="width:90%" src="/img/resourcepic/graicar.png"></p>
   
-gRAICAR is a Matlab package for data-driven subject community detection based on functional networks.
+  gRAICAR is a Matlab package for data-driven subject community detection based on functional networks.
    
-When we cannot assume that all subjects share the same functional networks, we may want to look into the inter-subject similarity on each network. gRAICAR provides a tool for realizing such a purpose. gRAICAR first decomposes fMRI data into spatial components using independent component analysis (ICA), then aligns the spatial maps across the subjects, yielding an inter-subject similarity matrix for each aligned, group-level component. According to many ICA studies, some of these aligned components represent functional connectivity networks.
+  When we cannot assume that all subjects share the same functional networks, we may want to look into the inter-subject similarity on each network. gRAICAR provides a tool for realizing such a purpose. gRAICAR first decomposes fMRI data into spatial components using independent component analysis (ICA), then aligns the spatial maps across the subjects, yielding an inter-subject similarity matrix for each aligned, group-level component. According to many ICA studies, some of these aligned components represent functional connectivity networks.
 
-The gRAICAR inter-subject similarity matrices reveal potential differences among subjects and thus accelerate data-driven discovery. Further, community detection algorithms applied to the gRAICAR intersubject similarity matrices can provide more quantitative metrics to characterize the associations between individual differences in functional networks and behaviors.
+  The gRAICAR inter-subject similarity matrices reveal potential differences among subjects and thus accelerate data-driven discovery. Further, community detection algorithms applied to the gRAICAR intersubject similarity matrices can provide more quantitative metrics to characterize the associations between individual differences in functional networks and behaviors.
 
-The gRAICAR code and a tutorial with examples: [Github link](https://github.com/yangzhi-psy/gRAICAR)
+  The gRAICAR code and a tutorial with examples: [Github link](https://github.com/yangzhi-psy/gRAICAR)
 
 people:
 
