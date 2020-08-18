@@ -13,7 +13,7 @@ people:
   - postdoc-2
 
 layout: project
-last-updated: 2020-08-12
+last-updated: 2020-08-18
 ---
 
 ## Goal:
