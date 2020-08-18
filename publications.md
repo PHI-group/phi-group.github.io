@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-<div class="card-columns">
+<div class="publication-card-columns">
     {% comment %}
     Sort the publications by date, putting those without dates last
     {% endcomment %}

@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-<div class="card-columns">
+<div class="project-card-columns">
     {% comment %}
     Sort the projects by date, putting those without dates last
     {% endcomment %}

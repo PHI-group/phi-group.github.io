@@ -3,7 +3,7 @@ layout: default
 title: Resources
 ---
 
-<div class="card-columns">
+<div class="resource-card-columns">
     {% comment %}
     Sort the resources by date, putting those without dates last
     {% endcomment %}
