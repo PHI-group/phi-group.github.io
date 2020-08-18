@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Child and Adolescent Brain Development and Mental Disorders
 
 description: |

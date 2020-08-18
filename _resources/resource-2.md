@@ -25,5 +25,3 @@ description: |
 layout: resource
 last-updated: 2020-08-12
 ---
-
-test
