@@ -18,7 +18,7 @@ last-updated: 2020-08-12
 
 Our current methodology developments aim to tackle the heterogeneity of psychiatric neuroimaging. Our efforts are two folds. First, we attempt to reveal and decompose the inter-individual variability in psychiatric neuroimaging data, with a transdiagnosis philosophy; Second, we are developing imaging paradigms that have a larger effect size in identifying individuals with mental disorders. With these aims in mind, we mainly focus on two topics:
 
-**1. Data-driven methodology for psychiatric imaging**
+## 1. Data-driven methodology for psychiatric imaging
 
 <p align="center"><img style="width:90%" src="/img/resourcepic/graicar.png"></p>
 
@@ -28,7 +28,7 @@ Particularly, Yang et al., 2014b demonstrate gRAICAR's clinical application in i
 
 We also investigated the impacts of critical parameters, such as the number of components, spatial smoothing of the data, and the mathematical models, on group-level independent component analysis. We found that a combination of low-level spatial smoothing and a high number of components can reliably separate the PCN and DMN in three commonly used group-level ICA algorithms (Hu et al., 2016).
 
-**2. Naturalistic imaging paradigm for psychiatric imaging**
+ ## 2. Naturalistic imaging paradigm for psychiatric imaging
 
 <p align="center"><img style="width:90%" src="/img/publicpic/natural_indiv_psy_imag.png"></p>
 
