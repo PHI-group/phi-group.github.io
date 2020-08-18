@@ -8,7 +8,7 @@ description: |
 people:
 
 layout: publication
-last-updated: 2020-08-12
+last-updated: 2020-08-09
 ---
 
 - Hu, Y., Wang, J., Li, C., Wang, Y.S., Yang, Z., Zuo, X.N., 2016. Segregation between the parietal memory network and the default mode network: effects of spatial smoothing and model order in ICA. Sci. Bull. 61, 1844–1854. [full page link](https://doi.org/10.1007/s11434-016-1202-z)

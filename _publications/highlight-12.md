@@ -15,7 +15,7 @@ description: |
 people:
 
 layout: publication
-last-updated: 2020-08-12
+last-updated: 2020-08-07
 ---
 
 - Yang, Z., Chang, C., Xu, T., Jiang, L., Handwerker, D.A., Castellanos, F.X., Milham, M.P., Bandettini, P.A., Zuo, X.N., 2014a. Connectivity trajectory across lifespan differentiates the precuneus from the default network. Neuroimage 89, 45–56. [full page link](https://doi.org/10.1016/j.neuroimage.2013.10.039)

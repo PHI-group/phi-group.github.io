@@ -10,7 +10,7 @@ description: |
 people:
 
 layout: publication
-last-updated: 2020-08-12
+last-updated: 2020-08-10
 ---
 
 - Syed, M.A., Yang, Z., Hu, X.P., Deshpande, G., 2017. Investigating Brain Connectomic Alterations in Autism Using the Reproducibility of Independent Components Derived from Resting State Functional MRI Data. Front. Neurosci. 11, 459. [full page link](https://doi.org/10.3389/fnins.2017.0045)

@@ -13,7 +13,7 @@ description: |
 people:
 
 layout: publication
-last-updated: 2020-08-12
+last-updated: 2020-08-05
 ---
 
 - Yang, Z., Zuo, X.N., Wang, P., Li, Z., LaConte, S.M., Bandettini, P.A., Hu, X.P., 2012. Generalized RAICAR: Discover homogeneous subject (sub)groups by reproducibility of their intrinsic connectivity networks. Neuroimage 63, 403–414. [full page link](https://doi.org/10.1016/j.neuroimage.2012.06.060)

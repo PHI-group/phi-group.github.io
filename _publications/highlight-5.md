@@ -19,7 +19,7 @@ people:
   - postdoc-2
 
 layout: publication
-last-updated: 2020-08-12
+last-updated: 2020-08-14
 ---
 
 <p align="center"><img style="width:90%" src="/img/publicpic/covid19.png"></p>

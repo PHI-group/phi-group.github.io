@@ -8,7 +8,7 @@ description: |
 people:
 
 layout: publication
-last-updated: 2020-08-12
+last-updated: 2020-08-11
 ---
 
 - Wang, J., Hu, Y., Li, H., Ge, L., Li, J., Cheng, L., Yang, Z., Zuo, X., Xu, Y., 2018. Connecting Openness and the Resting-State Brain Network: A Discover-Validate Approach. Front. Neurosci. 12, 1–9. [full page link](https://doi.org/10.3389/fnins.2018.00762)

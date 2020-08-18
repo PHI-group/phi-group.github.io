@@ -14,7 +14,7 @@ people:
   - postdoc-2
 
 layout: publication
-last-updated: 2020-08-12
+last-updated: 2020-08-17
 ---
 
 <p align="center"><img style="width:90%" src="/img/publicpic/gmvol_struc_covar.png"></p>

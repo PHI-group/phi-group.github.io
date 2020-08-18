@@ -11,7 +11,7 @@ description: |
 people:
 
 layout: publication
-last-updated: 2020-08-12
+last-updated: 2020-08-06
 ---
 
 - Wang, M., Zhao, J., Qian, J., Zhu, Y., Yang, Z., Jiang, Y., Wang, J., Du, Y., Weng, X., Li, C., 2013. Binocular rivalry in children with schizophrenia: the conscious and unconscious cognitive processing of interpersonal information. Shanghai Arch. Psychiatry 25, 157–164. [full page link](https://doi.org/10.3969/j.issn.1002-0829.2013.03.005)

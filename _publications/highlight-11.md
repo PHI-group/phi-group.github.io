@@ -12,7 +12,7 @@ description: |
 people:
 
 layout: publication
-last-updated: 2020-08-12
+last-updated: 2020-08-08
 ---
 
 - Wu, J., Zhang, S., Li, W., Qin, S., He, Y., Yang, Z., Buchanan, T.W., Liu, C., Zhang, K., 2015. Cortisol awakening response predicts intrinsic functional connectivity of the medial prefrontal cortex in the afternoon of the same day. Neuroimage 122. [full page link](https://doi.org/10.1016/j.neuroimage.2015.08.016)
