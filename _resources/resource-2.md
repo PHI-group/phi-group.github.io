@@ -22,9 +22,6 @@ description: |
   - Yang Z, Chang C, Xu T, Jiang L, Handwerker D, Castellanos F, Milham  M, Bandettini P, Zuo X (2014). Connectivity Trajectory across Lifespan Differentiates the Precuneus from the Default Network. NeuroImage 89,  45-56. [full page link](https://doi.org/10.1016/j.neuroimage.2013.10.039)
   - Yang Z, Xu Y, Xu T, Hoy C, Handwerker D, Chen G, Northoff G, Zuo X,  Bandettini P (2014). Brain network informed subject community detection  in early-onset schizophrenia. Scientific Reports 4, 5549. [full page link](https://doi.org/10.1038/srep05549)
 
-    
-people:
-
 layout: resource
 last-updated: 2020-08-12
 ---
