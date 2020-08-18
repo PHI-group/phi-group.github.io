@@ -32,6 +32,9 @@
         <div class="card-text">
             {{ publication.description | markdownify }}
         </div>
+        {% if publication.no-link != true or publication.link %}
+            <a href="{{ pub-url }}"> Read more &raquo;</a>
+        {% endif %}
     </div>
     {% if publication.people %}
         <div class="card-footer d-flex flex-row flex-wrap justify-content-center">
