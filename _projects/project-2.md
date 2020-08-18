@@ -2,9 +2,9 @@
 title: Cross-diagnosis Psychiatric Neuroimaging
 
 description: |
-  Taking charge of the Psychiatric Imaging Center (PIC) at the Shanghai Mental Health Center, we have constructed a cross-mental disorder neuroimaging database. 
+   Taking charge of the Psychiatric Imaging Center (PIC) at the Shanghai Mental Health Center, we have constructed a cross-mental disorder neuroimaging database. 
   
-  Currently, the database posses 7000+ samples of neuroimaging data, covering 10+ major diagnosis categories. We are working on common and specific neuroimaging features across mental disorders.  
+   Currently, the database posses 7000+ samples of neuroimaging data, covering 10+ major diagnosis categories. We are working on common and specific neuroimaging features across mental disorders.  
 
 people:
   - pi-1

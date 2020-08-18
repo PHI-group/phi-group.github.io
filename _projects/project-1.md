@@ -2,9 +2,9 @@
 title: Child and Adolescent Brain Development and Mental Disorders
 
 description: |
-  <p align="center"><img style="width:90%" src="/img/projpic/child_adole_mentaldisorder.png"></p>
+   <p align="center"><img style="width:90%" src="/img/projpic/child_adole_mentaldisorder.png"></p>
   
-  Mental health problems in children and adolescents have been a significant issue in China. We attempt to connect the mental health problems to individual differences in brain development that synthesizes and reflects genetic and environmental factors. We are closely collaborating with the Department of Child and Adolescent Psychiatry, Shanghai Mental Health Center, to construct a neuroimaging cohort of children and adolescents with anxiety disorders. In the future, we aim to extend this cohort into a full-spectrum neuroimaging cohort of mental disorders in children and adolescents.
+   Mental health problems in children and adolescents have been a significant issue in China. We attempt to connect the mental health problems to individual differences in brain development that synthesizes and reflects genetic and environmental factors. We are closely collaborating with the Department of Child and Adolescent Psychiatry, Shanghai Mental Health Center, to construct a neuroimaging cohort of children and adolescents with anxiety disorders. In the future, we aim to extend this cohort into a full-spectrum neuroimaging cohort of mental disorders in children and adolescents.
   
 people:
   - pi-1
