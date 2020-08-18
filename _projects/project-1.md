@@ -12,7 +12,7 @@ people:
   - postdoc-1
   - postdoc-2
   
-layout: resource
+layout: project
 last-updated: 2020-08-14
 ---
 
