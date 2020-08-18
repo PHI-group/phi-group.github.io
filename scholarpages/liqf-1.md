@@ -1,4 +1,4 @@
-<h1>应届生求职模板</h1>
+<h1>Qingfeng Li M.Sc</h1>
 
 <div style="float:right">
     <img src="https://img.52z.com/upload/news/image/20181108/20181108204521_83402.jpg" width="150">
