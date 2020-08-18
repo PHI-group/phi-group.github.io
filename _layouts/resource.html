@@ -5,7 +5,7 @@ layout: default
 {{ content }}
 
 <h2> People </h2>
-<section class="people project-people">
+<section class="people resource-people">
     {% for uname in page.people %}
         {% assign person = site.data.people[uname] %}
         {% include person.html person=person image=true%}

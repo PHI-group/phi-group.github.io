@@ -72,13 +72,19 @@ ul.news {
 }
 
 @media (min-width: 768px) {
-    .project-people { column-count: 2 }
+    .project-people { column-count: 4 }
+    .card-columns   { column-count: 2 }
+}
+
+@media (min-width: 768px) {
+/*    .role.grad      { column-count: 2 } */
+    .publication-people { column-count: 3 }
     .card-columns   { column-count: 1 }
 }
 
 @media (min-width: 768px) {
 /*    .role.grad      { column-count: 2 } */
-    .project-people { column-count: 3 }
+    .resource-people { column-count: 3 }
     .card-columns   { column-count: 1 }
 }
 
