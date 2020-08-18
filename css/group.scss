@@ -71,7 +71,7 @@ ul.news {
     }
 }
 
-@media (min-width: 576px) {
+@media (min-width: 768px) {
     .project-people { column-count: 2 }
     .card-columns   { column-count: 1 }
 }
