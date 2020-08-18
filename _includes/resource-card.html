@@ -32,9 +32,6 @@
         <div class="card-text">
             {{ resource.description | markdownify }}
         </div>
-        {% if resource.no-link != true or resource.link %}
-            <a href="{{ res-url }}"> Read more &raquo;</a>
-        {% endif %}
     </div>
     {% if resource.people %}
         <div class="card-footer d-flex flex-row flex-wrap justify-content-center">
