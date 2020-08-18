@@ -31,7 +31,9 @@ base: ''
 # make pages for the _projects folder
 collections:
   projects:
+    output: true
   publications:
+    output: true
   resources:
     output: true
 
