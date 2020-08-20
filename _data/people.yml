@@ -64,6 +64,20 @@ postdoc-2:
     bio: Postdoc Fellow
     school: Ph.D in Cognitive Neuroscience, Institute of Psychology, Chinese Academy of Sciences
 
+postdoc-3:
+    display_name: "Yinzhi Kang Ph.D"
+    role: postdoc
+    image: /img/people/kangyz.png
+    bio: Postdoc Fellow
+    school: Ph.D in Medicine, Southern Medical University
+
+postdoc-4:
+    display_name: "Xinping Kuai Ph.D"
+    role: postdoc
+    image: /img/people/kuaixp.jpg
+    bio: Postdoc Fellow
+    school: Ph.D in Medical Imaging and Nuclear Medicine, Fudan University
+
 grad-1:
     display_name: "Jiaqi Gao"
     role: grad
@@ -119,3 +133,4 @@ visit-4:
     image: /img/people/lijl.jpeg
     bio: Undergraduate Student
     school: Undergraduate Student of Psychology & Cognitive Science, University of California, Berkeley
+
