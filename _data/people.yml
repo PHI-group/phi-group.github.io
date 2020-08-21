@@ -30,6 +30,7 @@ faculty-3:
 
 faculty-4:
     display_name: "Yue Ding Ph.D"
+    webpage: /scholarpages/dingy.html
     role: faculty
     image: /img/people/dingy.jpeg
     bio: Associate Professor
