@@ -14,9 +14,7 @@ title: Publications
     {% endfor %}
 </div>
 
-##
-##
-##
+***
 
 ## Publications of 2020
 
