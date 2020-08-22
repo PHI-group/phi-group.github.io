@@ -23,5 +23,5 @@ description: |
   - Yang Z, Xu Y, Xu T, Hoy C, Handwerker D, Chen G, Northoff G, Zuo X,  Bandettini P (2014). Brain network informed subject community detection  in early-onset schizophrenia. Scientific Reports 4, 5549. [full page link](https://doi.org/10.1038/srep05549)
 
 layout: resource
-last-updated: 2020-08-12
+last-updated: 2020-08-30
 ---
