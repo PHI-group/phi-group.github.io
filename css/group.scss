@@ -79,7 +79,7 @@ ul.news {
 @media (min-width: 576px) {
 /*    .role.grad      { column-count: 2 } */
     .publication-people { column-count: 4 }
-    .publication-card-columns   { column-count: 2; display: inline-block }
+    .publication-card-columns   { column-count: 2 }
 }
 
 @media (min-width: 576px) {
@@ -96,7 +96,7 @@ ul.news {
 @media (min-width: 768px) {
 /*    .role.grad      { column-count: 2 } */
     .publication-people { column-count: 4 }
-    .publication-card-columns   { column-count: 2; display: inline-block }
+    .publication-card-columns   { column-count: 2 }
 }
 
 @media (min-width: 768px) {
@@ -128,6 +128,7 @@ section {
 }
 
 .card {
+    display: inline-block;
 
     .profile {
         height: 40px;
