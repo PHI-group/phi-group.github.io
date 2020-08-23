@@ -3,16 +3,8 @@ layout: default
 title: Yue Ding Ph.D
 ---
 
-<p align="left"><img style="width:50%" src="/img/scholarpages_people/dingy.jpeg"></p>
+<p align="left"><img style="width:30%" src="/img/scholarpages_people/dingy.jpeg"></p>
 
-## ResearchGate Page
-[https://www.researchgate.net/profile/Yue_Ding11](https://www.researchgate.net/profile/Yue_Ding11)
-
-## ORCID
-[https://orcid.org/0000-0003-3662-8265](https://orcid.org/0000-0003-3662-8265)
-
-## Google Scholar Page
-[https://scholar.google.com/citations?user=dxGB4PkAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=dxGB4PkAAAAJ&hl=zh-CN)
 
 ## E-mail
 
