@@ -17,7 +17,7 @@ role-tables:
 
 ---
 <p align="center"><img style="width:70%" src="/img/logo.jpg"></p>
-<p align="center"><img style="width:90%" src="/img/people/grp2-1.jpg"></p>
+<p align="center"><img style="width:90%" src="/img/people/grp2-1-1.jpg"></p>
 
 <div class="jumbotron">
     <p>
