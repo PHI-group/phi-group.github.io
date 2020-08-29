@@ -2,7 +2,7 @@
 layout: default
 title: Publications
 ---
-
+# Publication Highlights
 <div class="publication-card-columns">
     {% comment %}
     Sort the publications by date, putting those without dates last
@@ -15,7 +15,7 @@ title: Publications
 </div>
 
 ***
-
+# Publication list
 ## Publications of 2020
 
 - Guo, Q., Hu, Y., Zeng, B., Tang, Y., Li, G., Zhang, T., Wang, Jinhong, Northoff, G., Li, C., Goff, D., Wang, Jijun, Yang, Z., 2020. Parietal memory network and default mode network in first‐episode drug‐naïve schizophrenia: Associations with auditory hallucination. Hum. Brain Mapp. hbm.24923. [full page link](https://doi.org/10.1002/hbm.24923)

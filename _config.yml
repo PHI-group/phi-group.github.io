@@ -12,9 +12,9 @@ roles:
   - key: pi
     name: Principle Investigator
   - key: faculty
-    name: Faculty
+    name: Faculty Members
   - key: postdoc
-    name: Postdoc
+    name: Postdoc Fellows
   - key: grad
     name: Graduate Students
   - key: visit
