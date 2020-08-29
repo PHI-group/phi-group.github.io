@@ -40,8 +40,8 @@ Beijing, China.
 - **Regular Project (81971682), National Natural Science Foundation of China**, Individualized diagnosis of mental disorders based on cross-disease neuroiamging database, Role: PI, CNY 660,000. 2020-2023.
 - **Regular Project (81571756), National Natural Science Foundation of China**, Detecting subtypes of schizophrenia using neuroimaging under natural stimulus, Role: PI, CNY 672,000. 2016-2019.
 - **Renewed Regular Project (81270023), National Natural Science Foundation of China**, The specificity of the neuroimaging biomarkers for mental disorders, Role: PI, CNY 700,000. 2013-2016.
-- **Young Investigator Project(30900366), National Natural Science Foundation of China**, Data-driven neuroimaging marker research on clas- sification of mental disorders, Role: PI, CNY 210,000. 2010-2012.
-- **Original Exploration Project（20ZR1472800）, Natural Science Foundation of Shanghai**, A Study on the Relationship between Adolescents’ Taste Perception and Anxiety and Its Brain Mechanism, Role: PI, CNY 500,000. 2020-2023.
+- **Young Investigator Project (30900366), National Natural Science Foundation of China**, Data-driven neuroimaging marker research on clas- sification of mental disorders, Role: PI, CNY 210,000. 2010-2012.
+- **Original Exploration Project (20ZR1472800), Natural Science Foundation of Shanghai**, A Study on the Relationship between Adolescents’ Taste Perception and Anxiety and Its Brain Mechanism, Role: PI, CNY 500,000. 2020-2023.
 - **Beijing Nova Program (2015079B), Beijing Municipal Commission of Science and Techology**, Neuroimaging biomarkers for mental disorders: methodologies for the big data era, Role: PI, CNY 350,000. 2015-2017.
 - **Gaofeng Clinical Medicine Grant Support (20171929), Shanghai Municipal Commission of Education**, Neuroimaging markers for schizophrenia, Role: PI, CNY 1,000,000. 2017-2020.
 - **Hundred-talent Fund (2018BR17), Shanghai Municipal Commission of Health**, Brain development abnormality in social anxiety disorder, Role: PI, CNY 900,000. 2018-2021.
