@@ -50,23 +50,23 @@ Beijing, China.
 - **The National Basic Research Program of China (The 973 Program)(2007CB512300)**, Mechanism of genetic-environment interactions in depression and schizophrenia, Role: Participant, Undercontract: CNY 100,000. 2007-2011
 
 ### Teaching Experience
-2018-2020: **Introduction to Psychology**, Undergraduate course, 30 hours, Shanghai Jiao Tong University.
-2008-2020: **Statistics for Psychological Research**, Graduate course, 60 hours, Institute of Psychology, Chinese Academy of Sciences.
-2012-2020: **Advanced Statistics and Machine Learning**, Graduate course, 60 hours, Institute of Psychology, Chinese Academy of Sciences.
-2008-2010: **Cognitive Neuroscience**, Graduate course, 60 hours, Institute of Psychology, Chinese Academy of Sciences.
-2008-2020: **Brain Development and Learning**, Graduate course, 40 hours, Institute of Psychology, Chinese Academy of Sciences.
-2015-2016: **Cognitive Neuroscience**, Graduate course, 48 hours, University of Chinese Academy of Sciences.
+- 2018-2020: **Introduction to Psychology**, Undergraduate course, 30 hours, Shanghai Jiao Tong University.
+- 2008-2020: **Statistics for Psychological Research**, Graduate course, 60 hours, Institute of Psychology, Chinese Academy of Sciences.
+- 2012-2020: **Advanced Statistics and Machine Learning**, Graduate course, 60 hours, Institute of Psychology, Chinese Academy of Sciences.
+- 2008-2010: **Cognitive Neuroscience**, Graduate course, 60 hours, Institute of Psychology, Chinese Academy of Sciences.
+- 2008-2020: **Brain Development and Learning**, Graduate course, 40 hours, Institute of Psychology, Chinese Academy of Sciences.
+- 2015-2016: **Cognitive Neuroscience**, Graduate course, 48 hours, University of Chinese Academy of Sciences.
 
 ### Awards and Honors
-2018 Hundred-talent Award, Shanghai Municipal Commission of Health
-2017 Second Prize in Science and Technology Progress Award, Beijing
+- 2018 Hundred-talent Award, Shanghai Municipal Commission of Health
+- 2017 Second Prize in Science and Technology Progress Award, Beijing
 Municipal Commission of Science and Techology
-2017 Chenguang Prize for Academic Excellency, Shanghai Jiao Tong Univer- sity
-2016 Elected Member of Youth Innovation Program, Chinese Academy of Sciences
-2015 First Prize in Science and Technology Progress Award, The Ministry of Education of China
-2015 Beijing Nova Program, Beijing Municipal Commission of Science and Techology
-2014 Outstanding Young Investigator Award, Institute of Psychology, Chinese Academy of Sciences
-2009–2011 Excellent Assistant Professor Award, Institute of Psychology, Chinese Academy of Sciences
+- 2017 Chenguang Prize for Academic Excellency, Shanghai Jiao Tong Univer- sity
+- 2016 Elected Member of Youth Innovation Program, Chinese Academy of Sciences
+- 2015 First Prize in Science and Technology Progress Award, The Ministry of Education of China
+- 2015 Beijing Nova Program, Beijing Municipal Commission of Science and Techology
+- 2014 Outstanding Young Investigator Award, Institute of Psychology, Chinese Academy of Sciences
+- 2009–2011 Excellent Assistant Professor Award, Institute of Psychology, Chinese Academy of Sciences
 
 
 ### Publications
