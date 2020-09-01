@@ -15,12 +15,12 @@ description: |
   Please consider to cite the following publications:
 
   **Original algorithms:**
-  - Yang Z, Zuo X, Wang P, Li Z, Laconte S, Bandettini PA, Hu X (2012).  Generalized RAICAR: Discover homogeneous subject (sub)groups by  reproducibility of their intrinsic connectivity networks. NeuroImage 63,  403-414 [full page link](https://doi.org/10.1016/j.neuroimage.2012.06.060)
-  - Yang Z, LaConte S, Weng X, and Hu X (2008). Ranking and averaging  independent component analysis by reproducibility (RAICAR). Human Brain  Mapping 29, 711-25 [full page link](https://doi.org/10.1002/hbm.20432)
+  - Yang Z, Zuo X, Wang P, Li Z, Laconte S, Bandettini PA, Hu X (2012).  Generalized RAICAR: Discover homogeneous subject (sub)groups by  reproducibility of their intrinsic connectivity networks. NeuroImage 63,  403-414 [full text](https://doi.org/10.1016/j.neuroimage.2012.06.060)
+  - Yang Z, LaConte S, Weng X, and Hu X (2008). Ranking and averaging  independent component analysis by reproducibility (RAICAR). Human Brain  Mapping 29, 711-25 [full text](https://doi.org/10.1002/hbm.20432)
 
   **Improvements and applications:**
-  - Yang Z, Chang C, Xu T, Jiang L, Handwerker D, Castellanos F, Milham  M, Bandettini P, Zuo X (2014). Connectivity Trajectory across Lifespan Differentiates the Precuneus from the Default Network. NeuroImage 89,  45-56. [full page link](https://doi.org/10.1016/j.neuroimage.2013.10.039)
-  - Yang Z, Xu Y, Xu T, Hoy C, Handwerker D, Chen G, Northoff G, Zuo X,  Bandettini P (2014). Brain network informed subject community detection  in early-onset schizophrenia. Scientific Reports 4, 5549. [full page link](https://doi.org/10.1038/srep05549)
+  - Yang Z, Chang C, Xu T, Jiang L, Handwerker D, Castellanos F, Milham  M, Bandettini P, Zuo X (2014). Connectivity Trajectory across Lifespan Differentiates the Precuneus from the Default Network. NeuroImage 89,  45-56. [full text](https://doi.org/10.1016/j.neuroimage.2013.10.039)
+  - Yang Z, Xu Y, Xu T, Hoy C, Handwerker D, Chen G, Northoff G, Zuo X,  Bandettini P (2014). Brain network informed subject community detection  in early-onset schizophrenia. Scientific Reports 4, 5549. [full text](https://doi.org/10.1038/srep05549)
 
 layout: resource
 last-updated: 2020-08-30
