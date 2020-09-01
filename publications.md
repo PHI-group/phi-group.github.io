@@ -17,20 +17,20 @@ title: Publications
 ***
 # Publication list
 ## Publications of 2020
-
+- Cheng, W., Zhang, F., Liu, Z., Zhang, H., Lyu, Y., Xu, H., Hua, Y., Gu, J., Yang, Z., Liu, J., 2020. A psychological health support scheme for medical teams in COVID-19 outbreak and its effectiveness. Gen. Psychiatry 33, e100288. [full text](https://doi.org/10.1136/gpsych-2020-100288)
 - Guo, Q., Hu, Y., Zeng, B., Tang, Y., Li, G., Zhang, T., Wang, Jinhong, Northoff, G., Li, C., Goff, D., Wang, Jijun, Yang, Z., 2020. Parietal memory network and default mode network in first‐episode drug‐naïve schizophrenia: Associations with auditory hallucination. Hum. Brain Mapp. hbm.24923. [full text](https://doi.org/10.1002/hbm.24923)
-- Liu, Z., Hu, Y., Zhang, Y., Liu, W., Zhang, L., Wang, Y., Yang, H., Wu, J., Cheng, W., Yang, Z., 2020. Altered gray matter volume and structural co-variance in adolescents with social anxiety disorder: Evidence for a delayed and unsynchronized development of the fronto-limbic system. Psychol. Med. [https://doi.org/10.1017/S0033291720000495](https://doi.org/10.1017/S0033291720000495)
-- Cheng, W., Zhang, F., Hua, Y., Yang, Z., Liu, J., 2020. Development of a psychological first-aid model in inpatients with COVID-19 in Wuhan, China. Gen. Psychiatry. [https://doi.org/10.1136/gpsych-2020-100292](https://doi.org/10.1136/gpsych-2020-100292)
-- Cui, H., Zhang, B., Li, W., Li, H., Pang, J., Hu, Q., Zhang, L., Tang, Y., Yang, Z., Wang, J., Li, C., Northoff, G., 2020. Insula shows abnormal task-evoked and resting-state activity in first-episode drug-naïve generalized anxiety disorder. Depress. Anxiety 37, 632–644. [https://doi.org/10.1002/da.23009](https://doi.org/10.1002/da.23009)
+- Liu, Z., Hu, Y., Zhang, Y., Liu, W., Zhang, L., Wang, Y., Yang, H., Wu, J., Cheng, W., Yang, Z., 2020. Altered gray matter volume and structural co-variance in adolescents with social anxiety disorder: Evidence for a delayed and unsynchronized development of the fronto-limbic system. Psychol. Med. [full text](https://doi.org/10.1017/S0033291720000495)
+- Cheng, W., Zhang, F., Hua, Y., Yang, Z., Liu, J., 2020. Development of a psychological first-aid model in inpatients with COVID-19 in Wuhan, China. Gen. Psychiatry. [full text](https://doi.org/10.1136/gpsych-2020-100292)
+- Cui, H., Zhang, B., Li, W., Li, H., Pang, J., Hu, Q., Zhang, L., Tang, Y., Yang, Z., Wang, J., Li, C., Northoff, G., 2020. Insula shows abnormal task-evoked and resting-state activity in first-episode drug-naïve generalized anxiety disorder. Depress. Anxiety 37, 632–644. [full text](https://doi.org/10.1002/da.23009)
 
 ## Publications of 2019
 
 - Zhang, Y., Xu, L., Hu, Y., Wu, J., Li, C., Wang, J., Yang, Z., 2019. Functional Connectivity Between Sensory-Motor Subnetworks Reflects the Duration of Untreated Psychosis and Predicts Treatment Outcome of First-Episode Drug-Naïve Schizophrenia. Biol. Psychiatry Cogn. Neurosci. Neuroimaging 4, 697–705. [full text](https://doi.org/10.1016/j.bpsc.2019.04.002)
 - Yang, Z., Wu, J., Xu, L., Deng, Z., Tang, Y., Gao, J., Hu, Y., Zhang, Y., Qin, S., Li, C., Wang, J., 2019. Individualized psychiatric imaging based on inter-subject neural synchronization in movie watching. Neuroimage 216, 116227. [full text](https://doi.org/10.1016/j.neuroimage.2019.116227)
-- Zhao, Q., Xu, T., Wang, Y., Chen, D., Liu, Q., Yang, Z., Wang, Z., 2019. Limbic cortico-striato-thalamo-cortical functional connectivity in drug-naïve patients of obsessive-compulsive disorder. Psychol. Med. [full text](https://doi.org/10.1017/S0033291719002988)
+- Xu, T., Zhao, Q., Wang, P., Fan, Q., Chen, J., Zhang, H., Yang, Z., Stein, D.J., Wang, Z., 2019. Altered resting-state cerebellar-cerebral functional connectivity in obsessive-compulsive disorder. Psychol. Med. 49, 1156–1165. https://doi.org/10.1017/S0033291718001915
 - Jiang, L., Cao, X., Jiang, J., Li, T., Wang, J., Yang, Z., Li, C., 2019. Atrophy of hippocampal subfield CA2/3 in healthy elderly men is related to educational attainment. Neurobiol. Aging 80, 21–28. [full text](https://doi.org/10.1016/j.neurobiolaging.2019.03.019)
 - Deng, Z., Wu, J., Gao, J., Hu, Y., Zhang, Y., Wang, Y., Dong, H., Yang, Z., Zuo, X., 2019. Segregated precuneus network and default mode network in naturalistic imaging. Brain Struct. Funct. 224, 3133–3144. [full text](https://doi.org/10.1007/s00429-019-01953-2)
-- Zhao, Q., Xu, T., Wang, Y., Chen, D., Liu, Q., Yang, Z., Wang, Z., 2019. Limbic cortico-striato-thalamo-cortical functional connectivity in drug-naïve patients of obsessive-compulsive disorder. Psychol. Med. 1–13. [full text](https://doi.org/10.1007/s00429-019-01953-2)
+- Zhao, Q., Xu, T., Wang, Y., Chen, D., Liu, Q., Yang, Z., Wang, Z., 2019. Limbic cortico-striato-thalamo-cortical functional connectivity in drug-naïve patients of obsessive-compulsive disorder. Psychol. Med. 1–13. https://doi.org/10.1017/S0033291719002988
 - Hu, Y., Du, W., Zhang, Y., Li, N., Han, Y., Yang, Z., 2019. Loss of Parietal Memory Network Integrity in Alzheimer’s Disease. Front. Aging Neurosci. 11, 1–15. [full text](https://doi.org/10.3389/fnagi.2019.00067)
 
 ## Publications of 2018
