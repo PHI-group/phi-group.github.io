@@ -10,7 +10,7 @@ description: |
    <p align="center"><img style="width:90%" src="/img/publicpic/covid19_2.png"></p>
 
    - This paper presents a scheme to support the psychological health of frontline healthcare workers in the COVID-19 epidemic. This scheme integrates onsite and online mental health resources and features team-based psycho-social support and evidence-based intervention. This paper also reports quantitative results to support the effectiveness and efficiency of the scheme.
-  - Cheng, W., Zhang, F., Liu, Z., Zhang, H., Lyu, Y., Xu, H., Hua, Y., Gu, J., Yang, Z., Liu, J., 2020. A psychological health support scheme for medical teams in COVID-19 outbreak and its effectiveness. Gen. Psychiatry 33, e100288. [full text](https://doi.org/10.1136/gpsych-2020-100288)
+   - Cheng, W., Zhang, F., Liu, Z., Zhang, H., Lyu, Y., Xu, H., Hua, Y., Gu, J., Yang, Z., Liu, J., 2020. A psychological health support scheme for medical teams in COVID-19 outbreak and its effectiveness. Gen. Psychiatry 33, e100288. [full text](https://doi.org/10.1136/gpsych-2020-100288)
 
 
 people:
