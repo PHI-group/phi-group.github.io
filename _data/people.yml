@@ -1,18 +1,11 @@
 
 pi-1:
     display_name: "Zhi Yang Ph.D"
-    webpage: https://www.researchgate.net/profile/Zhi_Yang4
+    webpage: /scholarpages/yangz.html
     role: pi
     image: /img/people/yangz.jpeg
     bio: Principle Investigator
     school: Professor of Institute of Psychological and Behavioral Sciences, Shanghai Jiao Tong University
-
-faculty-1:
-    display_name: "Yiwen Zhang M.Sc"
-    role: faculty
-    image: /img/people/zhangyw.jpeg
-    bio: Research Fellow
-    school: M.Sc of Cognitive Neuroscience, Institute of Psychology, Chinese Academy of Sciences
 
 faculty-2:
     display_name: "Yang Hu M.Sc"
@@ -134,4 +127,11 @@ visit-4:
     image: /img/people/lijl.jpeg
     bio: Undergraduate Student
     school: Undergraduate Student of Psychology & Cognitive Science, University of California, Berkeley
+
+alum-1:
+    display_name: "Yiwen Zhang M.Sc"
+    role: alum
+    image: /img/people/zhangyw.jpeg
+    bio: Research Fellow
+    school: M.Sc of Cognitive Neuroscience, Institute of Psychology, Chinese Academy of Sciences
 
