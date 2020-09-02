@@ -8,7 +8,7 @@ title: Zhi Yang Ph.D
 
 ### E-mail
 
-- yangz %%at%% smhc.org.cn
+- yangz@smhc.org.cn
 
 ### Scholar Pages
 - [ResearchGate Page](https://www.researchgate.net/profile/Zhi_Yang4)
