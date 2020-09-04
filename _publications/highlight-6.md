@@ -2,7 +2,7 @@
 title: Reliability maps of individual differences reflected in naturalistic imaging
 
 description: |
-   <p align="center"><img style="width:90%" src="/img/publicpic/reliability_nv_behav.png"></p>
+   <p align="center"><img style="width:90%" src="img/publicpic/reliability_nv_with_behav.png"></p>
 
    - This paper presents voxel-wise and parcel-wise test-retest reliability maps of individual variability reflected in naturalistic imaging. We found that 1/3 voxels reflected reliable inter-individual similarity in an emotion-evoking movie.
    - Some regions exhibited “trait-like” inter-individual similarity and reliability. That is, the inter-individual similarity remained stable between the two movie-viewing sessions with a 1-week interval, and the reliability of the inter-individual similarity remained consistent across different contents of the emotion-evoking movie.

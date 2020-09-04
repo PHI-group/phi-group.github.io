@@ -40,7 +40,7 @@ We applied this methodology to recognizefirst-episode drug-naïve schizophrenia
 
 We further examined the reliability of the naturalistic imaging paradigm in representing individual differences. In Gao et al., 2020, we present voxel-wise and parcel-wise test-retest reliability maps of individual variability reflected by brain responses underlying a natural viewing video and an emotional arousing video clip. We found that 1/3 voxels reflected reliable inter-individual similarity in an emotion-evoking movie. 
 
-<p align="center"><img style="width:90%" src="/img/publicpic/reliability_nv.png"></p>
+<p align="center"><img style="width:90%" src="/img/projpic/reliability_nv.png"></p>
 
 Some regions exhibited “trait-like” inter-individual similarity and reliability. That is, the inter-individual similarity remained stable between the two movie-viewing sessions with a 1-week interval, and the reliability of the inter-individual similarity remained consistent across different contents of the emotion-evoking movie. These results support applying naturalistic imaging to individualized study, especially psychiatric imaging. The regions with significant reliability could be the targets for further investigation using natural stimuli.
 
