@@ -14,10 +14,7 @@ description: |
 
 
 people:
-  - pi-1
-  - faculty-1
-  - postdoc-1
-  - postdoc-2
+  - yangz
 
 layout: publication
 last-updated: 2020-08-14

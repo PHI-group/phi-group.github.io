@@ -8,10 +8,9 @@ description: |
    - Liu, Z., Hu, Y., Zhang, Y., Liu, W., Zhang, L., Wang, Y., Yang, H., Wu, J., Cheng, W., Yang, Z., 2020. Altered gray matter volume and structural co-variance in adolescents with social anxiety disorder: Evidence for a delayed and unsynchronized development of the fronto-limbic system. Psychol. Med. [full text](https://doi.org/10.1017/S0033291720000495)
 
 people:
-  - pi-1
-  - faculty-1
-  - postdoc-1
-  - postdoc-2
+  - yangz
+  - huy
+  - zhangl
 
 layout: publication
 last-updated: 2020-08-17

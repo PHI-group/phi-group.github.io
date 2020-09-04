@@ -8,10 +8,9 @@ description: |
    - Zhang, Y., Xu, L., Hu, Y., Wu, J., Li, C., Wang, J., Yang, Z., 2019. Functional Connectivity Between Sensory-Motor Subnetworks Reflects the Duration of Untreated Psychosis and Predicts Treatment Outcome of First-Episode Drug-Naïve Schizophrenia. Biol. Psychiatry Cogn. Neurosci. Neuroimaging. [full text](https://doi.org/10.1016/j.bpsc.2019.04.002)
 
 people:
-  - pi-1
-  - faculty-1
-  - postdoc-1
-  - postdoc-2
+  - yangz
+  - zhangyw
+  - huy
 
 layout: publication
 last-updated: 2020-08-15
