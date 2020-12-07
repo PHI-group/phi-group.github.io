@@ -18,6 +18,7 @@ title: Publications
 ## Publication list
 ### 2020
 - Gao, J., Chen, G., Wu, J., Wang, Y., Hu, Y., Xu, T., Zuo, X., Yang, Z., 2020. Reliability map of individual differences reflected in inter-subject correlation in naturalistic imaging. Neuroimage 223, 117277. [full text](https://doi.org/10.1016/j.neuroimage.2020.117277)
+- Zhang Y, Liu W, Lebowitz ER, Zhang F, Hu Y, Liu Z, Yang H, Wu J, Wang Y, Silverman WK, Yang Z, Cheng W, 2020. Abnormal asymmetry of thalamic volume moderates stress from parents and anxiety symptoms in children and adolescents with social anxiety disorder. Neuropharmacology.[full text](https://doi.org/10.1016/j.neuropharm.2020.108301)
 - Cheng, W., Zhang, F., Liu, Z., Zhang, H., Lyu, Y., Xu, H., Hua, Y., Gu, J., Yang, Z., Liu, J., 2020. A psychological health support scheme for medical teams in COVID-19 outbreak and its effectiveness. Gen. Psychiatry 33, e100288. [full text](https://doi.org/10.1136/gpsych-2020-100288)
 - Guo, Q., Hu, Y., Zeng, B., Tang, Y., Li, G., Zhang, T., Wang, Jinhong, Northoff, G., Li, C., Goff, D., Wang, Jijun, Yang, Z., 2020. Parietal memory network and default mode network in first‐episode drug‐naïve schizophrenia: Associations with auditory hallucination. Hum. Brain Mapp. hbm.24923. [full text](https://doi.org/10.1002/hbm.24923)
 - Liu, Z., Hu, Y., Zhang, Y., Liu, W., Zhang, L., Wang, Y., Yang, H., Wu, J., Cheng, W., Yang, Z., 2020. Altered gray matter volume and structural co-variance in adolescents with social anxiety disorder: Evidence for a delayed and unsynchronized development of the fronto-limbic system. Psychol. Med. [full text](https://doi.org/10.1017/S0033291720000495)
@@ -48,6 +49,7 @@ title: Publications
 
 ### 2016
 
+- Yang, Z., Zuo, X-N., McMahon, K,L., Craddock, R.C., Kelly, C., de Zubicaray, G.I., Hickie, I., Bandettini, P.A., Castellanos, F.X., Milham, M.P., Wright, M.J. (2016). Genetic and environmental contributions to functional connectivity architecture of the human brain. Cerebral Cortex. 26:2341-2352. [full text](https://doi.org/10.1093/cercor/bhw027)
 - Hu, Y., Wang, J., Li, C., Wang, Y.S., Yang, Z., Zuo, X.N., 2016. Segregation between the parietal memory network and the default mode network: effects of spatial smoothing and model order in ICA. Sci. Bull. 61, 1844–1854. [full text](https://doi.org/10.1007/s11434-016-1202-z)
 - Yang, Z., Qiu, J., Wang, P., Liu, R., Zuo, X.N., 2016. Brain structure–function associations identified in large-scale neuroimaging data. Brain Struct. Funct. 221, 4459–4474. [full text](https://doi.org/10.1007/s00429-015-1177-6)
 
