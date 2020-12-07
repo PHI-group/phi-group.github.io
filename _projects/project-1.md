@@ -29,7 +29,7 @@ Mental health problems in children and adolescents have been a significant issue
 
 ---
 
-<p align="center"><img style="width:90%" src="img/publicpic/tha_LI_SAD.png"></p>
+<p align="center"><img style="width:90%" src="/img/publicpic/tha_LI_SAD.png"></p>
 
 - We found that adolescents with social anxiety disorder exhibit significantly abnormal asymmetry in thalamus volume. This asymmetry becomes more evident in the relative older group (14-17), supporting brain developmental abnormalities in children and adolescents with SAD. Furthermore, this asymmetry significantly weakens the relationships between parental attachment and the overall anxiety level of adolescents. The findings further reveal the interactions between physiological and chronic stress in children and adolescents with SAD. See Zhang et al., 2020, for details.
 
