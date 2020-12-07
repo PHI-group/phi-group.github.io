@@ -1,4 +1,3 @@
-
 ---
 title: Abnormal asymmetry of thalamic volume moderates stress from parents and anxiety symptoms in children and adolescents with social anxiety disorder
 
