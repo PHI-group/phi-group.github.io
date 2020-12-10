@@ -1,6 +1,9 @@
 name: PHI group
 url: https://phi-group.github.io/
 
+# Google Analytics
+google_analytics: G-B565LRZXDB
+
 # colorize code snippets with the pygments module
 highlighter: pygments
 
