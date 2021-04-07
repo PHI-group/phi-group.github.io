@@ -44,3 +44,4 @@ We further examined the reliability of the naturalistic imaging paradigm in repr
 
 Some regions exhibited “trait-like” inter-individual similarity and reliability. That is, the inter-individual similarity remained stable between the two movie-viewing sessions with a 1-week interval, and the reliability of the inter-individual similarity remained consistent across different contents of the emotion-evoking movie. These results support applying naturalistic imaging to individualized study, especially psychiatric imaging. The regions with significant reliability could be the targets for further investigation using natural stimuli.
 
+We share the reliability maps here: https://osf.io/dnkg8/.
