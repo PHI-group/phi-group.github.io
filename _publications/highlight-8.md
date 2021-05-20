@@ -2,7 +2,7 @@
 title: Impact of inter-individual variability on the estimation of default mode network in temporal concatenation group ICA
 
 description: |
-   <p align="center"><img style="width:90%" src="/img/publicpic/gica-hu.png"></p>
+   <p align="center"><img style="width:90%" src="/img/publicpic/gica_hu.png"></p>
 
    - We found that inter-subject variability in data impact the performance of temporal-concatenated ICA, a commonly used group-level ICA approach, to estimate the group-level default mode network (DMN).
 
