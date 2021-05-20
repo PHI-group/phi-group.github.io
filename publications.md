@@ -16,6 +16,9 @@ title: Publications
 
 ***
 ## Publication list
+### 2021
+- Hu, Y., Yang, Z., 2021. Impact of inter-individual variability on the estimation of default mode network in temporal concatenation group ICA. Neuroimage 237, 118114. [full text](https://doi.org/10.1016/j.neuroimage.2021.118114)
+
 ### 2020
 - Gao, J., Chen, G., Wu, J., Wang, Y., Hu, Y., Xu, T., Zuo, X., Yang, Z., 2020. Reliability map of individual differences reflected in inter-subject correlation in naturalistic imaging. Neuroimage 223, 117277. [full text](https://doi.org/10.1016/j.neuroimage.2020.117277)
 - Zhang, Y., Liu, W., Lebowitz, E.R., Zhang, F., Hu, Y., Liu, Z., Yang, H., Wu, J., Wang, Y., Silverman, W.K., Yang, Z., Cheng, W., 2020. Abnormal asymmetry of thalamic volume moderates stress from parents and anxiety symptoms in children and adolescents with social anxiety disorder. Neuropharmacology.[full text](https://doi.org/10.1016/j.neuropharm.2020.108301)
