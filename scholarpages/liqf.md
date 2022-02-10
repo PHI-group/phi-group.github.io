@@ -25,14 +25,15 @@ title: Qingfeng Li M.Sc
 - 2019 Excellent Student Award of Southern Medical University
 - 2019 First-class Scholarship of Southern Medical University
 
-
 ## Research Funds
 
-
+- 2021 Shanghai Mental Health Center Hospital Level Key Projects
 
 ## Publications
 
-- Qingfeng Li, Quan Huo, Xiaodan Xing, Yiqiang Zhan, Xiang Sean Zhou, Feng Shi. Spatial and Depth Weighted Neural Network for Diagnosis of Alzheimer’s Disease. [C]. SPIE 10950, Medical Imaging 2019: Computer-Aided Diagnosis, 1095028.
-- Qingfeng Li, Xiaodan Xing, Ying Sun, Bin Xiao, Hao Wei, Quan Huo, Minqing Zhang, Xiang Sean Zhou, Yiqiang Zhan, Zhong Xue, Feng Shi. Novel Iterative Attention Focusing Strategy for Joint Pathology Localization and Prediction of MCI Progression[C]. medical image computing and computer assisted intervention, 2019: 307-315
-- Xiaodan Xing, Qingfeng Li, Hao Wei, Minqing Zhang, Yiqiang Zhan, Xiang Sean Zhou, Zhong Xue, Feng Shi. Dynamic Spectral Graph Convolution Networks with Assistant Task Training for Early MCI Diagnosis.[C]. medical image computing and computer assisted intervention, 2019: 639-646
+- Li Q, Jiang L, Qiao K, et al. INCloud: integrated neuroimaging cloud for data collection, management, analysis and clinical translations[J]. General Psychiatry, 2021, 34(6).
+- Xing X, Li Q, Yuan M, et al. DS-GCNs: connectome classification using dynamic spectral graph convolution networks with assistant task training[J]. Cerebral Cortex, 2021, 31(2): 1259-1269.
+- Li Q, Huo Q, Xing X, et al. Spatial and depth weighted neural network for diagnosis of Alzheimer’s disease[C]. Medical Imaging 2019: Computer-Aided Diagnosis. SPIE, 2019, 10950: 570-577.
+- Li Q, Xing X, Sun Y, et al. Novel iterative attention focusing strategy for joint pathology localization and prediction of MCI progression[C]. International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2019: 307-315.
+- Xing X, Li Q, Wei H, et al. Dynamic spectral graph convolution networks with assistant task training for early mci diagnosis[C]. International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2019: 639-646.
 
