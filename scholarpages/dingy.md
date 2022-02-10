@@ -43,4 +43,5 @@ title: Yue Ding Ph.D
 - Ding Y, Hu X, Xia Z, et al. Inter-brain EEG feature extraction and analysis for continuous implicit emotion tagging during video watching[J]. IEEE Transactions on Affective Computing, 2018.
 - Ding Y, Gray K, Forrence A, et al. A behavioral study on tonal working memory in musicians and non-musicians[J]. PloS one, 2018, 13(8): e0201765.
 - Ding Y, Hu X, Li J, et al. What makes a champion: The behavioral and neural correlates of expertise in multiplayer online battle arena games[J]. International Journal of Human–Computer Interaction, 2018, 34(8): 682-694.
+- Zhang Y, Ding Y, Huang J, et al. Hierarchical cortical networks of “voice patches” for processing voices in human brain [J]. Proceedings of the National Academy of Sciences, 2021.
 - Xu F, Ding Y, Ling Z, et al. DCDT: A Digital Clock Drawing Test System for Cognitive Impairment Screening[C]. 2020 IEEE 36th International Conference on Data Engineering (ICDE). IEEE, 2020: 1762-1765.
