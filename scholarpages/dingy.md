@@ -29,6 +29,7 @@ title: Yue Ding Ph.D
 
 ## Research Funds
 
+- 2021 National Natural Science Foundation of China
 - 2020 Shanghai Sailing Program
 - 2020 Shanghai Mental Health Center QiHang Program
 - 2020 Shanghai Mental Health Center Hospital Level Projects
@@ -36,6 +37,8 @@ title: Yue Ding Ph.D
 
 ## Publications
 
+- Ding Y, Chu Y, Liu M, et al. Fully automated discrimination of Alzheimer’s disease using resting-state electroencephalography signals [J]. Quantitative Imaging in Medicine and Surgery, 2022.
+- Ding Y, Hu X, Xia Z, et al. Inter-brain EEG feature extraction and analysis for continuous implicit emotion tagging during video watching[J]. IEEE Transactions on Affective Computing, 2021.
 - Ding Y, Zhang Y, Zhou W, et al. Neural correlates of music listening and recall in the human brain[J]. Journal of Neuroscience, 2019, 39(41): 8112-8123.
 - Ding Y, Hu X, Xia Z, et al. Inter-brain EEG feature extraction and analysis for continuous implicit emotion tagging during video watching[J]. IEEE Transactions on Affective Computing, 2018.
 - Ding Y, Gray K, Forrence A, et al. A behavioral study on tonal working memory in musicians and non-musicians[J]. PloS one, 2018, 13(8): e0201765.
