@@ -16,6 +16,7 @@ huy:
 
 zhangxc:
     display_name: "Xiaochen Zhang Ph.D"
+    webpage: /scholarpages/zhangxc.html
     role: faculty
     image: /img/people/zhangxc.jpeg
     bio: Research Fellow
@@ -28,6 +29,14 @@ dingy:
     image: /img/people/dingy.jpeg
     bio: Associate Professor
     school: Ph.D of Biomedical Engineering, Tsinghua University
+
+huzs:
+    display_name: "Zhishan Hu Ph.D"
+    webpage: /scholarpages/huzs.html
+    role: faculty
+    image: /img/people/huzs.png
+    bio: Associate Professor
+    school: Ph.D. in Biomedical Sciences, University of Macau
 
 liqf:
     display_name: "Qingfeng Li M.Sc"
