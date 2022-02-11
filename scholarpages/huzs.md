@@ -33,8 +33,8 @@ title: Zhishan Hu Ph.D
 - 2021-2023 National Natural Science Foundation of China
 
 ## Publications
-># : Joint first author
->* : Joint corresponding author
+- # : Joint first author
+- * : Joint corresponding author
 
 1. Wang, Y#., **Zhishan Hu#,** Y. Feng#, A. Wilson, and R. Chen. 2020. “Changes in Network Centrality of Psychopathology Symptoms between the COVID-19 Outbreak and after Peak.” _Mol Psychiatry_. (IF = 12.384, Q1)
 
