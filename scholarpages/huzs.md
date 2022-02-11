@@ -73,3 +73,5 @@ title: Zhishan Hu Ph.D
 18. Bai, Z., K. N. K. Fong, J. Zhang, and **Zhishan Hu.** 2020. “Cortical Mapping of Mirror Visual Feedback Training for Unilateral Upper Extremity: A Functional near-Infrared Spectroscopy Study.” _Brain Behav_ 10(1):e01489.
 
 19. Lin, Xiaohong, Victoria Lai Cheng Lei, Defeng Li, **Zhishan Hu,** Yutao Xiang, and Zhen Yuan. 2018. “Mapping the Small-World Properties of Brain Networks in Chinese to English Simultaneous Interpreting by Using Functional near-Infrared Spectroscopy.” _Journal of Innovative Optical Health Sciences_ 11(03).
+
+20. 任天虹, **胡志善**, 孙红月, 刘扬, 李纾. 2015. “选择与坚持：跨期选择与延迟满足之比较.” 心理科学进展 23(2):303–15.
