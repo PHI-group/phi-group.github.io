@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Xiaochen Zhang Ph.D
+---
 
 <p align="left"><img style="width:50%" src="/img/scholarpages_people/zhangxc.jpeg"></p>
 
