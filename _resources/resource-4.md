@@ -9,9 +9,9 @@ description: |
    Our research team is dedicated to constructing children's brain growth curves to implement individualized brain examinations and "brain development score" assessments. The team constructed a growth curve model of a total of 90 brain morphological features to assess the relative position of each brain structure in children within the same age and same sex population, revealing the developmental abnormalities of certain brain structures. We will continue to collect data and update these growth charts.
 
    We share the following resources:
-   - The latest growth charts: [Preschool Brain Growth Charts](https://sombrelux.shinyapps.io/brainchartapp/);
+   - The latest growth charts: [Preschool Brain Growth Charts](/temppages/braincharts_preschool.html);
    - R objects of the growth charts, for automated inferrence of "brain development score" for each feature;
-   - Sex-stratified brain atlas for each year between the ages of 1-6.
+   - [Sex-stratified brain templates for each year between the ages of 1-6](https://osf.io/fm7cq/).
 
 
 layout: resource
