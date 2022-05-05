@@ -16,8 +16,28 @@ title: Publications
 
 ***
 ## Publication list
+
+### 2022
+- Zhang, H., Li, J., Su, X., Hu, Y., Liu, T., Ni, S., Li, H., Zuo, X.-N., Fu, J., Yuan, T.-F., Yang, Z., 2022. Growth charts of brain morphometry for preschool children. NeuroImage 255, 119178. [full text](https://doi.org/10.1016/j.neuroimage.2022.119178)
+
+- Ding, Y., Liu, J., Zhang, X., Yang, Z., 2022. Dynamic Tracking of State Anxiety via Multi-Modal Data and Machine Learning. Front. Psychiatry 13, 757961. [full text](https://doi.org/10.3389/fpsyt.2022.757961)
+
+- Zhang, Q., Li, B., Jin, S., Liu, W., Liu, J., Xie, S., Zhang, L., Kang, Y., Ding, Y., Zhang, X., Cheng, W., Yang, Z., 2022. Comparing the Effectiveness of Brain Structural Imaging, Resting-state fMRI, and Naturalistic fMRI in Recognizing Social Anxiety Disorder in Children and Adolescents. Psychiatry Research: Neuroimaging 111485. [full text](https://doi.org/10.1016/j.pscychresns.2022.111485)
+
+
 ### 2021
+- Xie, S., Zhang, X., Cheng, W., Yang, Z., 2021. Adolescent anxiety disorders and the developing brain: comparing neuroimaging findings in adolescents and adults. Gen Psych 34, e100411. [full text](https://doi.org/10.1136/gpsych-2020-100411)
+
+- Li, Q., Jiang, L., Qiao, K., Hu, Y., Chen, B., Zhang, X., Ding, Y., Yang, Z., Li, C., 2021. INCloud: integrated neuroimaging cloud for data collection, management, analysis and clinical translations. Gen Psych 34, e100651. [full text](https://doi.org/10.1136/gpsych-2021-100651)
+
 - Hu, Y., Yang, Z., 2021. Impact of inter-individual variability on the estimation of default mode network in temporal concatenation group ICA. Neuroimage 237, 118114. [full text](https://doi.org/10.1016/j.neuroimage.2021.118114)
+
+- Xu, Z., Zhang, Xiaoyun, Chang, H., Kong, Y., Ni, Y., Liu, R., Zhang, Xiaolin, Hu, Y., Yang, Z., Hou, M., Mao, R., Liu, W.-T., Du, Y., Yu, S., Wang, Z., Ji, M., Zhou, Z., 2021. Rescue of maternal immune activation-induced behavioral abnormalities in adult mouse offspring by pathogen-activated maternal Treg cells. Nat Neurosci 24, 818–830. [full text](https://doi.org/10.1038/s41593-021-00837-1)
+
+- Zeng, Y., Tao, F., Cui, Z., Wu, L., Xu, J., Dong, W., Liu, C., Yang, Z., Qin, S., 2021. Dynamic integration and segregation of amygdala subregional functional circuits linking to physiological arousal. NeuroImage 238, 118224. [full text](https://doi.org/10.1016/j.neuroimage.2021.118224)
+
+- Jiang, L., Cui, H., Zhang, C., Cao, X., Gu, N., Zhu, Y., Wang, J., Yang, Z., Li, C., 2021. Repetitive Transcranial Magnetic Stimulation for Improving Cognitive Function in Patients With Mild Cognitive Impairment: A Systematic Review. Frontiers in Aging Neuroscience 12, 593000. [full text](https://doi.org/10.3389/fnagi.2020.593000)
+
 
 ### 2020
 - Gao, J., Chen, G., Wu, J., Wang, Y., Hu, Y., Xu, T., Zuo, X., Yang, Z., 2020. Reliability map of individual differences reflected in inter-subject correlation in naturalistic imaging. Neuroimage 223, 117277. [full text](https://doi.org/10.1016/j.neuroimage.2020.117277)

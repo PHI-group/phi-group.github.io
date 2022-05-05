@@ -34,7 +34,7 @@ huzs:
     display_name: "Zhishan Hu Ph.D"
     webpage: /scholarpages/huzs.html
     role: faculty
-    image: /img/people/huzs.png
+    image: /img/people/huzs-reduce.jpg
     bio: Associate Professor
     school: Ph.D. in Biomedical Sciences, University of Macau
 
@@ -83,7 +83,7 @@ kuaixp:
 
 gaojq:
     display_name: "Jiaqi Gao"
-    role: grad
+    role: alumi
     image: /img/people/gaojq.jpeg
     bio: Ph.D Student
     school: Ph.D Candidate of Institute of Psychology, Chinese Academy of Sciences
@@ -111,7 +111,7 @@ jinsy:
 
 zhangqj:
     display_name: "Qinjian Zhang"
-    role: visit
+    role: alum
     image: /img/people/zhangqj.jpeg
     bio: Master Student
     school: M.Sc Candidate of University of Chinese Academy of Sciences
@@ -125,14 +125,14 @@ huangyl:
 
 hux:
     display_name: "Xiong Hu"
-    role: visit
+    role: alum
     image: /img/people/hux.jpeg
     bio: Master Student
     school: M.Sc Candidate of Capital Normal University
 
 lijl:
     display_name: "Jialin Li"
-    role: visit
+    role: alum
     image: /img/people/lijl.jpeg
     bio: Undergraduate Student
     school: Undergraduate Student of Psychology & Cognitive Science, University of California, Berkeley
@@ -150,3 +150,18 @@ qiaokn:
     image: /img/people/qiaokn.jpeg
     bio: Research Fellow
     school: M.Sc of Cognitive Neuroscience, Institute of Psychology, Chinese Academy of Sciences
+
+xiayf:
+    display_name: "Yufeng Xia"
+    role: grad
+    image: /img/people/xiayf-reduce.jpeg
+    bio: Master Student
+    school: M.Sc Candidate of Psychology, Shanghai Jiao Tong University
+
+muxc:
+    display_name: "Xingchen Mu"
+    webpage: /scholarpages/muxc.html
+    role: visit
+    image: /img/people/muxc-reduce.jpeg
+    bio: Research Fellow
+    school: M.Sc Candidate of Applied Statistics, Northwest University

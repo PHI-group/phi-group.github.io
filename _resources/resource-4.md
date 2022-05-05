@@ -10,7 +10,7 @@ description: |
 
    We share the following resources:
    - The latest growth charts: [Preschool Brain Growth Charts](/temppages/braincharts_preschool.html);
-   - R objects of the growth charts, for automated inferrence of "brain development score" for each feature;
+   - [R objects of the growth charts](https://github.com/PHI-group/share_children_braincharts), for automated inferrence of "brain development score" for each feature;
    - [Sex-stratified brain templates for each year between the ages of 1-6](https://osf.io/fm7cq/).
 
 
