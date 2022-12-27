@@ -18,6 +18,15 @@ title: Publications
 ## Publication list
 
 ### 2022
+- Hu, Y., Li, Q., Qiao, K., Zhang, X., Chen, B., Yang, Z., 2022. PhiPipe: A multi-modal MRI data processing pipeline with test-retest reliability and predicative validity assessments. Human Brain Mapping, Published Online [full text]() 
+
+- Liu, J., Xie, S., Hu, Y., Ding, Y., Zhang, X., Liu, W., Zhang, L., Ma, C., Kang, Y., Jin, S., Xia, Y., Hu, Z., Liu, Z., Cheng, W., Yang, Z., 2022. Age‐dependent alterations in the coordinated development
+of subcortical regions in adolescents with social anxiety disorder. European Child & Adolescent Psychiatry, Published Online [full text](https://doi.org/10.1007/s00787-022-02118-z)
+
+- Li, W., Cui, H., Li, H., Colcombe, S., Smith, R., Cao, X., Pang, J., Hu, Q., Zhang, L., Yang, Z., Wang, J., Li, C., 2022. Specific and common functional connectivity deficits in drug-free generalized anxiety disorder and panic disorder: A data-driven analysis. Psychiatry Research, 319, 114971. [full text](https://doi.org/10.1016/j.psychres.2022.114971)
+
+- Jiang, L., Qiao, K., Li, Q., Hu, Y., Zhang, X., Wang, J., Peng, D., Fan, Q., Zhao, M., Sheng, J., Wang, J., Li, C., Fang, Y., Wang, Z., Yang, Z., for the Psychiatric Imaging Consortium, 2022. Categorical and dimensional deficits in hippocampal subfields among schizophrenia, obsessive-compulsive disorder, bipolar disorder, and major depressive disorder. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, Published online. [full text](https://doi.org/10.1016/j.bpsc.2022.06.011)
+
 - Zhang, H., Li, J., Su, X., Hu, Y., Liu, T., Ni, S., Li, H., Zuo, X.-N., Fu, J., Yuan, T.-F., Yang, Z., 2022. Growth charts of brain morphometry for preschool children. NeuroImage 255, 119178. [full text](https://doi.org/10.1016/j.neuroimage.2022.119178)
 
 - Ding, Y., Liu, J., Zhang, X., Yang, Z., 2022. Dynamic Tracking of State Anxiety via Multi-Modal Data and Machine Learning. Front. Psychiatry 13, 757961. [full text](https://doi.org/10.3389/fpsyt.2022.757961)
