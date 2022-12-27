@@ -13,9 +13,17 @@ description: |
 
    <p align="center"><img style="width:90%" src="/img/resourcepic/wepromri_2.png"></p>
 
-   The source code of the basic version of PHI-pipe can be downloaded at [under updating]() Here is a user's manual. [under updating]()
+   The source code of the basic version of PHI-pipe can be downloaded at [github release page](https://github.com/PHI-group/PhiPipe-release) Here is a [user's manual](https://github.com/PHI-group/PhiPipe-release/blob/main/PhiPipe_manual_v1.2.0.pdf).
+    ## Reference paper
+   Details of the PhiPipe as well various validations and comparisons are documented in our paper.
+  
+    ## Reliability and Validity Database
+    We further evaluated the test-retest reliability and predictive validity of PhiPipe's brain features. We provide an online database to make the access to the reliability and validity measures easier. Users can query the reliability and validity measures for specific brain regions and image features here:
+    [PhiPipe Reliability and Validity Database](https://yangzhi-psy.shinyapps.io/NeuroImageFeatureQualityViewer/)
+
+
 
 
 layout: resource
-last-updated: 2020-08-12
+last-updated: 2022-12-27
 ---
